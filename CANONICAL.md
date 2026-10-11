@@ -43,7 +43,7 @@ repo's pages should read from it rather than hardcoding concept arrays.
 
 ## Verification
 
-All sealed decisions are recorded in the Notion DOKAZ database
+All sealed decisions are recorded in the canonical ledger: Atmavictu/canon/DOKAZ.md
 (⊢ DOKAZ — Proof-of-Lineage Ledger).
 
 ---
