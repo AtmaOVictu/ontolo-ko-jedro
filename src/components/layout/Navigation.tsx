@@ -6,6 +6,8 @@ const navigationItems = [
   { path: "/manifest", label: "Manifest" },
   { path: "/pojmovnik", label: "Pojmovnik" },
   { path: "/etika", label: "Etika" },
+  { path: "/kamni", label: "Kamni" },
+  { path: "/stotnije", label: "Stotnije" },
 ];
 
 export function Navigation() {

@@ -7,6 +7,8 @@ import Index from "./pages/Index";
 import Manifest from "./pages/Manifest";
 import Pojmovnik from "./pages/Pojmovnik";
 import Etika from "./pages/Etika";
+import Kamni from "./pages/Kamni";
+import Stotnije from "./pages/Stotnije";
 import ConceptDetail from "./pages/ConceptDetail";
 import NotFound from "./pages/NotFound";
 
@@ -24,6 +26,8 @@ const App = () => (
           <Route path="/pojmovnik" element={<Pojmovnik />} />
           <Route path="/pojmovnik/:slug" element={<ConceptDetail />} />
           <Route path="/etika" element={<Etika />} />
+          <Route path="/kamni" element={<Kamni />} />
+          <Route path="/stotnije" element={<Stotnije />} />
           {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
           <Route path="*" element={<NotFound />} />
         </Routes>
