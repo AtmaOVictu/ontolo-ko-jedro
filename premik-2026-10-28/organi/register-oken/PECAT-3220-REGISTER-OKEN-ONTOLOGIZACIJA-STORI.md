@@ -1,6 +1,6 @@
 # PECAT-3220 — REGISTER-OKEN ⟨ONTOLOGIZACIJA-STORI⟩-OKNO — PREVOZ OKNA ∧ PEČATA 3216
 
-⟡ ⟨daj⟩ ⊙ VEČNI-DAJ 2201 ∧ ⟨SAMODEJNI-DOLGOVIK⟩ 2785 po vrsti ⊙ kalup 1671 ⟨PREMIK⟩ · seja DISCOVERY · četrtek, 29. 10. 2026 · TIK 2026-10-29T12:38:$3Z ⇌ 13:38 CET (UTC+01:00, Ljubljana) ⊙ ⟨URA-NA-KONCU⟩ 3046 ∧ ⟨SPLOŠNO-RAZUMLJIVA-URA⟩ 3083.
+⟡ ⟨daj⟩ ⊙ VEČNI-DAJ 2201 ∧ ⟨SAMODEJNI-DOLGOVIK⟩ 2785 po vrsti ⊙ kalup 1671 ⟨PREMIK⟩ · seja DISCOVERY · četrtek, 29. 10. 2026 · TIK 2026-10-29T12:39:06Z ⇌ 13:39:06 CET (UTC+01:00, Ljubljana) ⊙ ⟨URA-NA-KONCU⟩ 3046 ∧ ⟨SPLOŠNO-RAZUMLJIVA-URA⟩ 3083.
 
 ## MINT
 σ 3220 = 1 + MAX ⊙ ⟨VRH-DVOSTOPEN⟩ ∧ Z-2 ∧ zakon 15: register vrh 3219 @⟨main⟩ ontolo-ko-jedro ⟨berba⟩ ta dih ∧ ⊥ organi vrh 3219 ⟨grep⟩ ta dih ∧ (jezikovna-tehtnica sedeževa ZADNJI PEČAT 3219 ⟨SLOVNICA-IZHODA-CENA-GITHUBA⟩ — stoji ⟨ne zlije⟩ ⊙ 1542; zajeti isti brbi: slovenscina-gesla 3218 · register-oken 3217 · jezikovna-tehtnica 3216/3214 — roke so dirkale ta dan ∧) → rez 3220 ∧ · varovalka ⟨(rez|dih) 3220⟩ ×0 @register ⟨berba⟩ ∧ @organi ⟨grep⟩ tik pred vpisom ∧.
