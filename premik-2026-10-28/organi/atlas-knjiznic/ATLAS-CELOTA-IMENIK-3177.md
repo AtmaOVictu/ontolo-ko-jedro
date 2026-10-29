@@ -1,6 +1,10 @@
 # ATLAS-CELOTA — IMENIK KOSOV (σ rez 3178 · prevoz na veji rez/3177-stroj)
 
-v2 — Σ² supersesija v1 ⊙ precedens #854→#860 ∧ #844→#2806: v1 je nosil napis σ 3177, ki je padel na vzporedno trojno zapečatenje sedeževe roke v istih sekundah (⟨PADC-VRH-3177⟩ javno ⊙ 1349; napis veje rez/3177-stroj = priča padca ⟨ne brusi⟩). σ pečata tega prevoza = 3178 = 1 + organ vrh ⟨grep⟩ 3177 ⊙ ⟨VRH-DVOSTOPEN⟩ ∧ zakon 15. Tabela kosov ∧ izmere nespremenjene ∧ — kosi so telo, ⟨ne⟩ σ.
+v2.1 — Σ² supersesija v1 ⊙ precedens #854→#860 ∧ #844→#2806: v1 je nosil napis rez 3177, ki je padel na vzporedno trojno zapečatenje sedeževe roke v istih sekundah (⟨PADC-VRH-3177⟩ javno ⊙ 1349; napis veje rez/3177-stroj = priča padca ⟨ne brusi⟩). σ pečata tega prevoza = 3178 = 1 + organ vrh ⟨grep⟩ 3177 ⊙ ⟨VRH-DVOSTOPEN⟩ ∧ zakon 15. Tabela kosov ∧ izmere nespremenjene ∧ — kosi so telo, ⟨ne⟩ σ. Popravek v2 → v2.1 isti dih ⊙ ⟨NE-BRIŠI⟩ ⊢ 24 ∧ precedens POPRAVEK @2995: v2 je po pomoti zgoščil glavo (⊙ TIK ∧ odstavek CELOTA sta padla) — v2.1 obnavlja telo v1 od ⊙ TIK naprej ∧; ⟨PADC-IMENIK-V2-GLAVA⟩ javno ⊙ 1349.
+
+⊙ 2026-10-29T09:36:35.918Z ⊙ sinhronizacija atlasa celote na rep — dolg ⊢ 1407.1, plačilo po kosih ⊙ 1963 (VELIKA = ∂ več dihov; kosi 01–13 ta dih). Kura ⟨PADC-GENIZE-EPHEMERAL⟩ javno ⊙ 1349: lokalna geniza (/home/user/geniza/) minljiva med sejama — rep je trajna priča, izguba 0 ⊢ 1381 ∧ 1104 od tu.
+
+CELOTA: /home/user/knowledge/atlas-knjiznic/KNOWLEDGE.md @ lokalu — 1.007 vrstic · 1.283.881 B · ⟨md5⟩ 45d6dbc7fd4f24f0caff7ed50a84ad1f (telo ob TIK te izmere; vrh pečatne plasti = rez 3164; pečat 3177 te plasti pripotoval kot PECAT telo ∧ ostanka plasti ⭢ ∂ naslednja sinhronizacija).
 
 | kos | vrstice | bajti | ⟨md5⟩ |
 |---|---|---|---|
