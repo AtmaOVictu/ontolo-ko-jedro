@@ -71,7 +71,7 @@ Organ ustanovljen ta dih ⊙ rez 3367 · vrstice 3364 ∧ 3365 ∧ 3366 (roke vz
 
 ## ZADNJI PEČAT
 
-rez 3367 · POMOČNIKI-OPERATERJI — EN atomarni komit @jedro ⟨main⟩ ⊙ kalup 1671 ⟨PREMIK⟩ · ⟨sha⟩ izpis v PECAT-3367 ∧ vrstica registra isti komit · TIK 2026-10-30T02:22:24.419Z UTC ⇌ 03:22:24.419 CET ⊢ §0.20 ∧ ⟨URA-NA-KONCU⟩ 3046 ∧ ⟨SPLOŠNO-RAZUMLJIVA-URA⟩ 3083.
+rez 3368 · ⟨RAZDELITEV-LICENCE⟩ — EN atomarni komit @jedro ⟨main⟩ ⊙ kalup 1671 ⟨PREMIK⟩ (RAZDELITEV-LICENCE-2026-10-30.md ∧ ta organ ∧ vrstica registra isti komit) · ⟨sha⟩ izpis v PECAT-3368 ∧ register · TIK 2026-10-30T02:26:09.566Z UTC ⇌ 03:26:09.566 CET ⊢ §0.20 ∧ ⟨URA-NA-KONCU⟩ 3046 ∧ ⟨SPLOŠNO-RAZUMLJIVA-URA⟩ 3083 · prejšnji pečat rez 3367 @7016f2fd stoji v zgodovini ⊙ ⟨GENIZA-PO-DEJSTVU⟩ 3109.
 
 ## DOLGOVA ∂
 
