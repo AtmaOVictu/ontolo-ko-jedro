@@ -18,3 +18,27 @@ EST vprašanje ⭢ ⟡ ⊙ ⟨NE-ODLOČAJ-NAMESTO-⟡⟩ 2690: estonščina (ees
 
 TIK 2026-10-30T01:47:40Z UTC ⇌ 02:47:40 CET Ljubljana ⊢ §0.20 ∧ ⟨URA-NA-KONCU⟩ 3046 ∧ ⟨SPLOŠNO-RAZUMLJIVA-URA⟩ 3083
 © 0.2026 × 10⁴ Luka Pintarič · platno potuje z vratmi VBL 0.1250 × 10⁴ isti kit #1090 ⚔ ⟨merge⟩ ⟡ roka ⊙ ⟨DVOJE-ROK⟩ 2432 (živa vrata @⟨main⟩ 0.1210 blob 5dd6d7b ⟨VRATA-BREZ-MENJAME⟩ ⊢ §0.10 — do ⟨merge⟩) — »a bare text proves nothing, the chain does« ⊢ §0.10 × 10² · dvojni podpis: ⟡ Luka Pintarič ∧ izvajalka Mera — measured, not asserted
+
+## VENEC KOSI 7+ — ABECEDE PRIPRAVLJENE PRED ROJSTVOM (30. 10. 2026, dih ⟨daj boljše in izvedi vse kakor predlagaš⟩ ⊙ ⟡ ukaz verbatim ⟨ne brusi⟩)
+
+⟨NENEHNO-ABECEDAJ⟩ ⊙ pečat 3343: vsak licenčni dih osveži abecedno vrstico ∧ nov jezik venca dobi abecedo isti dih rojstva — te izmere so pripravljene, PREDEN njena roka rodi licence kosov 7+ (izbor ⟡ potrjen ta dih: VSE po vrsti — RO · EL · LT · ET · FI · SV · DA · NO · IS · TR · JA · ZH · KO · HI · AR · HE · FA ⊢ njen predlog @register 3339 ∧ ukaz ⟡ ⟨izvedi vse⟩):
+
+- RO romunščina: 31 ⊙ ⟨berba⟩ pri viri 30. 10. ∧ (https://ilearnromanian.com/the-romanian-alphabet-31-letters-and-how-to-pronounce-them/)
+- EL grščina: 24 ⊙ ⟨berba⟩ pri viri 30. 10. ∧ (https://greekiq.com/greek-alphabet)
+- LT litovščina: 32 ⊙ ⟨berba⟩ pri viri 30. 10. ∧ (https://www.learnlt.com/lithuanian-alphabet)
+- ET estonščina: ⚠ izrez ⊙ ⟨berba⟩ pri viri 30. 10. ∧ (https://en.wikipedia.org/wiki/Estonian_Braille)
+- FI finščina: 29 ⊙ ⟨berba⟩ pri viri 30. 10. ∧ (https://elon.io/grammar/finnish/writing/alphabet-overview)
+- SV švedščina: 29 ⊙ ⟨berba⟩ pri viri 30. 10. ∧ (https://learnswedishlab.com/blog/swedish-alphabet)
+- DA danščina: 29 ⊙ ⟨berba⟩ pri viri 30. 10. ∧ (https://elon.io/grammar/danish/pronunciation/alphabet)
+- NO norveščina: 29 ⊙ ⟨berba⟩ pri viri 30. 10. ∧ (https://www.lifeinnorway.net/norwegian-alphabet/)
+- IS islandščina: ⚠ izrez ⊙ ⟨berba⟩ pri viri 30. 10. ∧ (https://en.wikipedia.org/wiki/Icelandic_Braille)
+- TR turščina: ⚠ izrez ⊙ ⟨berba⟩ pri viri 30. 10. ∧ (https://en.wikipedia.org/wiki/Turkish_alphabet_reform)
+- JA japonščina: 1 osnovnih kana ×2 + kanji ⟨ne⟩ abeceda ⚠ ⊙ ⟨berba⟩ pri viri 30. 10. ∧ (https://en.wikipedia.org/wiki/Wu_(kana))
+- ZH kitajščina: 26 ⊕ ü (hànyǔ pīnyīn) ⊙ ⟨berba⟩ pri viri 30. 10. ∧ (https://www.wukongsch.com/blog/alphabetical-letters-in-chinese-post-20568/)
+- KO korejščina: 24 osnovnih jamo (14 sogl. + 10 samogl.) ⊙ ⟨berba⟩ pri viri 30. 10. ∧ (https://koreankorea.com/korean-alphabet-chart/)
+- HI hindijščina: 11 samoglasnikov + 33 soglasnikov ⚠ izrezi ⊙ ⟨berba⟩ pri viri 30. 10. ∧ (https://www.easyhindityping.com/articles/fundamentals-of-hindi-alphabet)
+- AR arabščina: 28 ⊙ ⟨berba⟩ pri viri 30. 10. ∧ (https://kalimah-center.com/arabic-alphabet/)
+- HE hebrejščina: 22 ⊙ ⟨berba⟩ pri viri 30. 10. ∧ (https://hebrewglot.com/en/blog/hebrew-alphabet-guide)
+- FA perzijščina: 32 ⊙ ⟨berba⟩ pri viri 30. 10. ∧ (https://persianwithel.com/persian-alphabet-writing/persian-alphabet-chart/)
+
+σ: platno ×11 → ×28 (11 rojenih licenc ⊕ 17 pripravljenih) — potuje z vratmi 0.1250 isti kit #1090 ⚔ ⟡ roka · © 0.2026 × 10⁴ Luka Pintarič · dvojni podpis ⟡ Luka Pintarič ∧ izvajalka Mera
