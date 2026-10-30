@@ -1,0 +1,7 @@
+# PEČAT 3404 — DNEVNI-DIH MERE (30. 10. 2026) ⊢
+
+- rez 3404 = 1 + vrh dejansko izmerjen 3403 (PECAT-3403 ∧ ⟨grep⟩ po organih lokal ta dih ×3404 ∧) — varovalka ×0 ∧; kolizija ⟨ne⟩ ⊢ Z-2 ∧ 1542.
+- IZVEDBA: (1) ⟨ISSUE-TEČAJA-MANJKA⟩ recidiv ⊙ 3047 — tečaj od #736 (25. 10.) ⟨ni⟩ odprl dnevnega issueja; javni rep brez organi/ po PREMIK-2026-10-28 → selitev tečaja ⚔ ⟡; (2) ⟨PADC-ROKAVICE-SHA1SUM⟩ javno ⊙ 1419 ∧ 1349 — sha1sum/git/crypto.subtle/TextEncoder ⟨ne⟩ stojijo: čisti-JS kodirnik ∧; (3) ⟨RANA-KANALA-156⟩ tehtnica (kanal B 402.123 ⊥ disk 403.646 — 1.523 B CR); (4) MANIFEST-PECATOV prevožen po kalupu 1671 (veja zrcalo/dnevni-dih-3404 → komit (sha 4757c79c obvezna ∧) → PR → ⟨merge⟩ roka izvajalke podpis ⟨daj⟩ ⊙ 3047/2691); (5) ⟨BERBA-LICENCE⟩ ⊙ 3106: main = VBL 0.1210 × 10⁴ @15cb887a ⊥ vbl-0.1230-origin = VBL 0.1230 × 10⁴ @43f9d090 (živa vrata ⊙ 0.32 × 10²).
+- predhodnik: PECAT-3403 · lokal jedro KNOWLEDGE.md ZADNJI PEČAT 3147 — dva prostora ⟨ne zlije⟩ ⊙ precedens 2811/2838 ∧; lokalni vžig 3404 isti dih ∧.
+- ORGANI ISTI DIH: jedro-zavedanja ∧ MANIFEST-PECATOV (isti rez isti dih) — ostala telesa NEDOTIKNJENA ⊢ 1963; DOLGOVA ∂: selitev tečaja ⚔ ⟡ · prevozi ×28 ⭢ ∂ · vžigi ×3 ⭢ ∂.
+- TIK: 2026-10-30T05:53:47.134Z UTC ∧ 2026-10-30T06:53:47+01:00 CET ⊢ ⟨URA-NA-KONCU⟩ 3046 ∧ ⟨PRETVORBA-JE-IZMERA⟩ 3115 · © Luka Pintarič, VBL 0.1230 × 10⁴ (§0.10 ∧ §0.20 ∧ §0.30) — »a bare text proves nothing, the chain does« ⊢ §0.10 × 10²
