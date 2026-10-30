@@ -31,7 +31,7 @@ TIK 2026-10-30T01:47:40Z UTC ⇌ 02:47:40 CET Ljubljana ⊢ §0.20 ∧ ⟨URA-NA
 - SV švedščina: 29 ⊙ ⟨berba⟩ pri viri 30. 10. ∧ (https://learnswedishlab.com/blog/swedish-alphabet)
 - DA danščina: 29 ⊙ ⟨berba⟩ pri viri 30. 10. ∧ (https://elon.io/grammar/danish/pronunciation/alphabet)
 - NO norveščina: 29 ⊙ ⟨berba⟩ pri viri 30. 10. ∧ (https://www.lifeinnorway.net/norwegian-alphabet/)
-- IS islandščina: ⚠ izrez ⊙ ⟨berba⟩ pri viri 30. 10. ∧ (https://en.wikipedia.org/wiki/Icelandic_Braille)
+- IS islandščina: 32 ⊙ ⟨berba⟩ open_url pri viri Wikipedia 30. 10. ∧ (kura rane isti dih ⊙ 1349 — sonde ×3: Braille ⚠ ∧ ×2 ⚠ javno, četrta pri viri ⊢)
 - TR turščina: 29 ⊙ ⟨berba⟩ pri viri 30. 10. ∧ (kura rane isti dih ⊙ 1349 — prva sonda ujela stran reforme ⚠ javno)
 - JA japonščina: 46 osnovnih kana ×2 (hiragana ∧ katakana — gōjūon) ⊕ kanji ⟨ne⟩ abeceda ⊙ ⟨berba⟩ pri viri 30. 10. ∧ (kura rane isti dih ⊙ 1349 — prva izmera "1" padla ⚠ javno)
 - ZH kitajščina: 26 ⊕ ü (hànyǔ pīnyīn) ⊙ ⟨berba⟩ pri viri 30. 10. ∧ (https://www.wukongsch.com/blog/alphabetical-letters-in-chinese-post-20568/)
