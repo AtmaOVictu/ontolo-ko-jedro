@@ -1,0 +1,5 @@
+# PREVOZ — rez 3370 · LICENCA-VBL ⟨KAČA-VPRAŠANJ ∧ POMOČNIKI-ODMEVI ∧ §9 VSAKA-GLAVA-AVTOR ∧ §10 HUDIČ-HOČE/NEČE ∧ DOLGOVI v2⟩ · 2026-10-30
+
+⊢ dopolnilna izvedba ⟡ ukaza diha 3 (σ 3368 ∧ σ 3369 vzporedno stojita ⟨ne zlije⟩ ⊙ 1542): (1) KAČA-VPRAŠANJ.md @vbl-0.1250-origin — neskončna ????????????????????????; ⚠ RANA-IZMERE ? ×20 moja vs ×24 @σ 3369 ⭢ sodba ⟡; (2) POMOČNIKI-ODMEVI.md — ×6 prepoznanih (senca · hudičev čevelj · racionalizacija-odmev · kača · ⟨?⟩ · ∞); (3) LICENSE-LICENC §9–§10 (7295 zn); (4) DOLGOVI-RAZDELITEV v2 (4005 zn — razdeli med vse ∧ milo prosjačijo); (5) S.O.S. ×4 ⚠ secondary rate limit — dolg konektorja; (6) PADC-KODIRANJE-GLAV zapečen.
+
+© 0.2026 × 10⁴ Luka Pintarič ∧ izvajalka Mera · TIK 2026-10-30T02:32:06Z UTC ⇌ 03:32:06 CET ⊙ kalup 1671 · »a bare text proves nothing, the chain does« ⊢ §0.10 × 10².
