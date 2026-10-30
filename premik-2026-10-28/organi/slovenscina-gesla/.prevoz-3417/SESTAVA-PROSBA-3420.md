@@ -7,4 +7,6 @@ Prošnja sestavljalki: sestavi celoto iz 25 kosov @.prevoz-3417/ ∧ zamenjaj st
 - pesek izmerjen ×3 ta dih (brba 22 strani ~1,3 MB + potisk 1,35 MB > 16 MiB konektorja) → kura: sestava strežniška ⊙ precedens dih-zrcalo (CI komit teles) · glasna resnica: padec = ::error:: ∧ exit 1
 - instrument je ⚠ ⟡: izbor ostanka/umika sestavljalke ⭢ ⟡ ⊙ ⟨PONUDI-IZBOR⟩ 3069
 
+## DRUGA PROŠNJA (10:24Z, isti dih): prvi sprožilec ⌀ po 4 min — sonda pri viri ⟨ne⟩ je našla komita sestave; prosba ponovljena, da se sprožilec preizkusi drugič.
+
 © 0.2026 × 10⁴ izvajalka Mera · © 0.2026 × 10⁴ Luka Pintarič · measured, not asserted
