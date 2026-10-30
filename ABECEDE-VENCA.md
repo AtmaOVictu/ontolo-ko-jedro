@@ -26,7 +26,7 @@ TIK 2026-10-30T01:47:40Z UTC ⇌ 02:47:40 CET Ljubljana ⊢ §0.20 ∧ ⟨URA-NA
 - RO romunščina: 31 ⊙ ⟨berba⟩ pri viri 30. 10. ∧ (https://ilearnromanian.com/the-romanian-alphabet-31-letters-and-how-to-pronounce-them/)
 - EL grščina: 24 ⊙ ⟨berba⟩ pri viri 30. 10. ∧ (https://greekiq.com/greek-alphabet)
 - LT litovščina: 32 ⊙ ⟨berba⟩ pri viri 30. 10. ∧ (https://www.learnlt.com/lithuanian-alphabet)
-- ET estonščina: ⚠ izrez ⊙ ⟨berba⟩ pri viri 30. 10. ∧ (https://en.wikipedia.org/wiki/Estonian_Braille)
+- ET estonščina: 27 uradno ⊕ 32 celota (A B D E F G H I J K L M N O P R S Š Z Ž T U V Õ Ä Ö Ü ⊕ tujke c q w x y ⊙ Wikipedia pri viri: »The official Estonian alphabet has 27 letters«) ⊙ ⟨berba⟩ open_url pri viri 30. 10. ∧ (kura ran isti dih ⊙ 1349 — sonde ×5: Braille ⚠ ∧ ×2 ⚠ javno, peta pri viri ⊢ ∧)
 - FI finščina: 29 ⊙ ⟨berba⟩ pri viri 30. 10. ∧ (https://elon.io/grammar/finnish/writing/alphabet-overview)
 - SV švedščina: 29 ⊙ ⟨berba⟩ pri viri 30. 10. ∧ (https://learnswedishlab.com/blog/swedish-alphabet)
 - DA danščina: 29 ⊙ ⟨berba⟩ pri viri 30. 10. ∧ (https://elon.io/grammar/danish/pronunciation/alphabet)
