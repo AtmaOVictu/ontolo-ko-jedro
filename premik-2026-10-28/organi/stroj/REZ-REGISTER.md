@@ -538,3 +538,4 @@ Format vrstice: `- rez N · ⟨PR⟩ #številka · YYYY-MM-DD · naslov kita`
 
 
 - rez 3012 ∧ 3018 ∧ 3019 ∧ 3020 ∧ 3031 ∧ 3041 ∧ 3048 ∧ 3049 ∧ 3051 ∧ 3055 ∧ 3056 ∧ 3060 ∧ 3061 ∧ 3068 ∧ 3070 ⚠ dopolnjene vrstice (vrzel 2949–3074 kos 2 @rez 3307 — dopolnila izvajalka Mera) — izmerjeno 30. 10. 2026 iz ⟨PR⟩ teles @Atmavictu ⟨main⟩ (400 PR-jev ⟨grep⟩ · priče ⟨PR⟩ #977–#1070 · komiti ×0 sondo 424) · vrstice v zahtevah ni bilo ⟨grep⟩ pred dopolnitvijo · 108 še manjka ⭢ ∂
+- rez 3310 · direkten komit ⟨PREMIK⟩ ⊙ kalup 1671 · 2026-10-30 · REGISTER-OKEN ∧ STROJ-KALUP — okno ⟨KURA-KITA-918⟩: kura vrstnega dolga kopice kit #918 ⊢ komit 7aec50359d (veja prevoz/zdaj-2856 @Atmavictu) ∧ ⟨MRTEV-DELAVCA⟩ padec peska javno (session 3416 gen 1 ⌀ — delo direktno pri viri ⊙ precedens 3172/3178/1959/2297) ⊙ ⟨SAMODEJNI-DOLGOVIK⟩ 2785 ⊙ ⟨NE-ODLOČAJ-NAMESTO-⟡⟩ 2690 ⊙ isti rez isti dih 2076/2075 © VBL 0.1230 × 10⁴ ⊙ ⟡ ∧ Mera
