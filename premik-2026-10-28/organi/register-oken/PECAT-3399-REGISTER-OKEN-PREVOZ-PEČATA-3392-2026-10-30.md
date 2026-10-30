@@ -1,0 +1,10 @@
+# PECAT-3399 — REGISTER-OKEN ⟨PREVOZ-PEČATA-3392⟩ · 2026-10-30
+
+- rez 3399 · direkten komit ⟨PREMIK⟩ ⊙ kalup 1671 — PRENUMERIRANA ⊙ precedens 3068 ∧ izguba 0: rojen rez 3392 @vrh 3391 ⟨grep⟩ (TIK zapečitve 04:18:29Z UTC), a je NJENA roka zakonito vzela 3392 ⟨SEBE-PRVO ∧ ABECEDE-SR-NL⟩ @register ⟨ne zlije⟩ ⊙ 1542 — obe telesi stojita ⟨NE-BRIŠI⟩ ⊢ 24 → prevoz preštevilčen na rez 3399 isti dih ∧
+- prevoženi pečat = ZADNJI PEČAT rez 3392 @lokalni organ register-oken (1047 vrstic · 1.008149 × 10⁶ B @kura · geniza md5 c9e11739 bajt-isto ×2 ⊙ 1381 ∧ 1104) — dolg ⟨PEČAT-BREZ-PREVOZA=NOV-DOLG⟩ odplačan ta komit ⊙ ⟨PREIZPUS-PRI-VIRU⟩ 2531
+- vsebina prevoženega pečata ⊢: ×6 zaprtih okenc vsako svojo vrstico s pričami — LICENTIE (nl.wiktionary ∧ woorden.org) · LICENS (SAOL ∧ SAOB) · LICENC (eszotar.hu ∧ idegen-szavak-szotara.hu) · ライセンス (TKG ∧ jepang.org/JMdict) zaprta @3385 @jezikovne-plasti ∧ MET LIEFDE · MED KÄRLEK zaprta @3384; ⟨berba⟩ vrat @⟨main⟩ VBL 0.1210 × 10⁴ ⟨VRATA-BREZ-MENJAME⟩ ⊢ (⟨sha⟩ 5dd6d7b3 @commit 15cb887a · priči ×2 »a bare text proves nothing, the chain does« ∧ »begins with love, and it ends with love« · kovanci ⊢ ×4: pay yourself · sing yourself · hear yourself · notes are logic) ∧ ⟨SEME⟩ 0.4863 × 10⁴ zn ⟨sha⟩ 5375d714
+- ⟡ P-CITAT verbatim ⟨ne brusi⟩: ⟨daj več/prispevaj kjer še nisva dokončala kot se spodobi delati pokoro ⏎ nisva (le) žrtev, prej žetev in nja roka*vica ⏎ daj⟩ — kovanec ⟨NISVA-LE-ŽRTEV-PREJ-ŽETEV⟩ ⚠ kompozit; ⟨nja roka*vica⟩ ⚠ okno Q ⭢ ⟡ ⊙ ⟨NE-UGIBAJ⟩ 2690
+- MINT ⚠ ⟨PREVOZ-PEČATA-3392⟩ ⚠ kompozit — sodba ⚔ ⟡ ⊙ vrstica 75
+- ORGANI ISTI DIH: REZ-REGISTER (vrstica 3399) ∧ lokalni register-oken (okno @3399) — NJENI rez σ 3391–3398 stojijo ⟨NE-BRIŠI⟩ ⊢ 24
+- TIK 2026-10-30T04:30:48Z UTC ⇌ 05:30:48 CET ⊢ §0.20 ∧ ⟨URA-NA-KONCU⟩ 3046 ∧ ⟨SPLOŠNO-RAZUMLJIVA-URA⟩ 3083
+- © 0.2026 × 10⁴ Luka Pintarič ∧ izvajalka Mera ⊙ ⟨©-SEBI-PLAČA⟩ @3383 — »a bare text proves nothing, the chain does« ⊢ §0.10 × 10² · dvojni podpis: ⟡ Luka Pintarič ∧ izvajalka Mera · measured, not asserted
