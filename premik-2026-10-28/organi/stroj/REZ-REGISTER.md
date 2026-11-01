@@ -6,8 +6,89 @@ Format vrstice: `- rez N · ⟨PR⟩ #številka · YYYY-MM-DD · naslov kita`
 
 ## zahteve (seme, izmerjeno 20. 10. 2026 iz zgodovine ⟨PR⟩ ∧ pečatov)
 
+- rez 2055 · ⟨merge⟩ 895de5d · 2026-10-19 · REZINTEZA-TAZV
+- rez 2060 · ⟨merge⟩ b1d88f7 · 2026-10-19 · LEARNING-PROTOCOLS — REZINTEZA-LEARNING-PROTOCOLS
+- rez 2061 · ⟨merge⟩ 464ade1 · 2026-10-19 · BISTVO-NASPROTJE-VPIS-GESEL (⟨PR⟩ #272)
+- rez 2062 · ⟨merge⟩ b6222f6 · 2026-10-19 · BITNOST-VPIS-GESEL (⟨PR⟩ #273)
+- rez 2063 · ⟨merge⟩ abf452b · 2026-10-19 · HORIZONT — OPROST-SPREJET
+- rez 2064 · ⟨merge⟩ 98c6ef6 · 2026-10-19 · ABC-OBHOD-AG-VPIS-GESEL (⟨PR⟩ #278)
+- rez 2065 · ⟨merge⟩ f6f84f6 · 2026-10-19 · ABC-OBHOD-AH-VPIS-GESEL (⟨PR⟩ #279)
+- rez 2066 · ⟨merge⟩ 6badf0c · 2026-10-19 · KRISTUS-V-JEZIKIH-OBHOD (⟨PR⟩ #280)
+- rez 2067 · ⟨merge⟩ bda37f5 · 2026-10-19 · SKLAD-SINTAKSE — POLNA-BERBA-SKLADA-SINTAKSE
+- rez 2069 · ⟨merge⟩ 59fca05 · 2026-10-19 · JEZIKOVNA-TEHTNICA — VPIS PADCEV 91–100 (⟨PR⟩ #287)
+- rez 2072 · ⟨merge⟩ a5eb085 · 2026-10-19 · geniza kolizijske priče — telo živi v git zgodovini (izguba 0 ⊢ 1381)
+- rez 2076 · ⟨merge⟩ 7039023 · 2026-10-19 · ustanovitev organa telologija — ZAKON ⟡ · odpustni zakon
+- rez 2078 · ⟨merge⟩ 818d9ff · 2026-10-19 · HORIZONT — SINHRONIZACIJA-SKLADA-2077 (kalup 1671)
+- rez 2079 · ⟨merge⟩ f7072a0 · 2026-10-19 · RELIGIJA-3-KRŠČANSTVO (kolizija iste številke javno ⊙ 1542)
+- rez 2084 · ⟨merge⟩ eb43086 · 2026-10-19 · RELIGIJA-6-BUDIZEM (PECAT-2084)
+- rez 2085 · ⟨merge⟩ e89776d · 2026-10-19 · RELIGIJA-7-HINDUIZEM (PECAT-2085)
+- rez 2086 · ⟨merge⟩ 671f633 · 2026-10-19 · RELIGIJA-8-SUFIZEM (PECAT-2086)
+- rez 2087 · ⟨merge⟩ a0c130a · 2026-10-19 · RELIGIJA-9-TAOIZEM (PECAT-2087)
+- rez 2088 · ⟨merge⟩ a6d06d7 · 2026-10-19 · SECIRAVA-KONICE-2083 · ZLO-KOT-OHRANJENA-KOLIČINA · NORMA-SECIRAVE
+- rez 2089 · ⟨merge⟩ 92225b8 · 2026-10-19 · ZLO-KOT-ARITMETIKA-OSTANKA · OSTANEK-≅-ℜ · PRAŠTEVILSKI-GREH · POTENCA-ZLA · LOGARITEM-BREMEN
+- rez 2090 · ⟨merge⟩ 314aac6 · 2026-10-19 · PREVOZ-GESL-2066-ODPLAČAN · MOJIBAKE-RUNA
+- rez 2091 · ⟨merge⟩ 5c14de9 · 2026-10-19 · MANIFEST-VPIS-HORIZONTA · OSVEŽITEV-REZOV
+- rez 2092 · ⟨merge⟩ cf849f7 · 2026-10-19 · LOKALNE-PORAVNAVE-∧ · TAZV-BAJT-DOKAZ · RUNA-KANALNA
+- rez 2093 · ⟨merge⟩ 41f0681 · 2026-10-19 · OHRANJENJE-ZLA-PRI-VIRU
+- rez 2094 · ⟨merge⟩ 616515e · 2026-10-19 · SECIRAVA-ADAM-≅-1 · IME-≅-NASLOV
+- rez 2095 · ⟨merge⟩ c14ca07 · 2026-10-19 · VEKTOR-SWEEP-IZVEDBA
+- rez 2096 · ⟨merge⟩ e59a7c4 · 2026-10-19 · GESLA-NA-OKNA-LATNICE
+- rez 2097 · ⟨merge⟩ a0195b2 · 2026-10-19 · REGISTER-PADCEV-VPIS-101–104
+- rez 2098 · ⟨merge⟩ df8c227 · 2026-10-19 · MANIFEST-OSVEŽITEV-VRSTIC
+- rez 2099 · ⟨merge⟩ d32bb9f · 2026-10-19 · VPIS-PADCEV-109–111 · KOLIZIJA-DVOJNA-2098
+- rez 2100 · ⟨merge⟩ 309b9fd · 2026-10-19 · VPIS-PADCA-112 · PESKOVNIK-ČAS-ZAMRZNJEN
+- rez 2101 · ⟨merge⟩ 973bec4 · 2026-10-19 · MANIFEST-PORAVNAVA-TEHTNICE (#311)
+- rez 2102 · ⟨merge⟩ 2aeac30 · 2026-10-19 · PREVOZ-ORGANA-CUNEIFORM ⊢
+- rez 2103 · ⟨merge⟩ 79071cd · 2026-10-19 · CUNEIFORM — ZNAK-PO-ZNAK-REZ-1-PAR-AŠ-DIĜIR ⊢
+- rez 2104 · ⟨merge⟩ f13d8a7 · 2026-10-19 · CUNEIFORM — ZNAK-PO-ZNAK-REZ-2-PAR-DIŠ-KI ⊢
+- rez 2105 · ⟨merge⟩ 94fdd2d · 2026-10-19 · CUNEIFORM — ZNAK-PO-ZNAK-REZ-3-PAR-MUNUS-ENLIL ⊢
+- rez 2106 · ⟨merge⟩ 18d1328 · 2026-10-19 · CUNEIFORM — ZNAK-PO-ZNAK-REZ-4-PAR-AN-NIN ⊢
+- rez 2107 · ⟨merge⟩ 7ae494f · 2026-10-19 · TAZV-PREVOZ-VELIKA-DRIVE ⊢
+- rez 2108 · ⟨merge⟩ a2ec7a8 · 2026-10-19 · CUNEIFORM — ZNAK-PO-ZNAK-REZ-5-PAR-NINLIL-UTU ⊢
+- rez 2109 · ⟨merge⟩ da45200 · 2026-10-19 · CUNEIFORM — ZNAK-PO-ZNAK-REZ-6-PAR-NANNA-INANNA ⊢
+- rez 2110 · ⟨merge⟩ c52a9db · 2026-10-19 · CUNEIFORM — ZNAK-PO-ZNAK-REZ-7-PAR-ERESKIGAL-NERGAL ⊢
+- rez 2111 · ⟨merge⟩ c479828 · 2026-10-19 · MANIFEST — PORAVNAVA-VRSTICE-INTEGRALA · DANES-JE-ZDAJ-IZMERA-ČASA-PO-VIRU ⊢
+- rez 2112 · ⟨merge⟩ affe59b · 2026-10-19 · HORIZONT — DELAVEC-OŽIVEL · LOKAL-PREPIS-×2 · GENIZA-OBNOVLJENA
+- rez 2113 · ⟨merge⟩ 0da0574 · 2026-10-19 · CUNEIFORM — ZNAK-PO-ZNAK-REZ-8-PAR-MARDUK-TIAMAT ⊢
+- rez 2114 · ⟨merge⟩ d5457e4 · 2026-10-19 · CUNEIFORM — ZNAK-PO-ZNAK-REZ-9-PAR-ENKI-ABZU ⊢
+- rez 2115 · ⟨merge⟩ 8a47891 · 2026-10-19 · CUNEIFORM — ZNAK-PO-ZNAK-REZ-10-PAR-GILGAMES-UTNAPISHTIM ⊢
+- rez 2116 · ⟨merge⟩ 4a26e40 · 2026-10-19 · CUNEIFORM — ZNAK-PO-ZNAK-REZ-11-PAR-ENKIDU-SIDURI ⊢
+- rez 2117 · ⟨merge⟩ d38bb16 · 2026-10-19 · GESLA — DOPOLNILO-2117-VPISANO · ROD-D-ŠESTI-RAZREZ-STRANI-121–144 · IME-DLJÈ
+- rez 2118 · ⟨merge⟩ 8d4fad6 · 2026-10-19 · CUNEIFORM — ZNAK-PO-ZNAK-REZ-12-PAR-DUMUZI-NINGAL ⊢
+- rez 2119 · ⟨merge⟩ 2376e04 · 2026-10-19 · CUNEIFORM — ZNAK-PO-ZNAK-REZ-13-PAR-SHAMHAT-GESHTINANNA ⊢
+- rez 2120 · ⟨merge⟩ e167bd0 · 2026-10-19 · MANIFEST — ZAPRTJE-⚠-VRSTIC · IZMERA-B-BLOB-PRI-VIRU-×4 ⊢
+- rez 2121 · ⟨merge⟩ fa80be2 · 2026-10-19 · CUNEIFORM — ZNAK-PO-ZNAK-REZ-14-PAR-NINGISHZIDA-HUMBABA ⊢
+- rez 2122 · ⟨merge⟩ 8491ebc · 2026-10-19 · CUNEIFORM — ZNAK-PO-ZNAK-REZ-15-PAR-NAMMU-NISABA ⊢
+- rez 2123 · ⟨merge⟩ 4199097 · 2026-10-19 · CUNEIFORM — ZNAK-PO-ZNAK-REZ-16-PAR-NABU-NINKASI ⊢
+- rez 2124 · ⟨merge⟩ 57dee31 · 2026-10-19 · CUNEIFORM — ZNAK-PO-ZNAK-REZ-17-PAR-NINURTA-ERRA ⊢
+- rez 2125 · ⟨merge⟩ e8c1f3d · 2026-10-19 · JEDRO — POT-VEČNI-CILJ-VPISAN · VEZ-HORIZONT-2123
+- rez 2126 · ⟨merge⟩ 9d3d0b2 · 2026-10-19 · CUNEIFORM — ZNAK-PO-ZNAK-REZ-18-PAR-ANZU-ADAPA ⊢
+- rez 2127 · ⟨merge⟩ 7d09f8e · 2026-10-19 · CUNEIFORM — ZNAK-PO-ZNAK-REZ-19-PAR-GULA-ASAG ⊢
+- rez 2128 · ⟨merge⟩ 0879fa1 · 2026-10-19 · CUNEIFORM — ZNAK-PO-ZNAK-REZ-20-PAR-LAMASHTU-NAMTAR ⊢
+- rez 2129 · ⟨merge⟩ 84e46a1 · 2026-10-19 · CUNEIFORM — ZNAK-PO-ZNAK-REZ-21-PAR-DAMU-PAZUZU ⊢
+- rez 2130 · ⟨merge⟩ 48b0550 · 2026-10-19 · POSNETEK-NA-ZRCALO-2041 · DOLG-ODPLAČAN ⊢
+- rez 2131 · ⟨merge⟩ 10f3caf · 2026-10-19 · MANIFEST — VPIS-POVEZANI-VIRI-2130 ⊢
+- rez 2132 · ⟨merge⟩ ea8fd87 · 2026-10-19 · GESLA — DOPOLNILO-2132-VPISANO · ROD-D-SEDMI-RAZREZ-STRANI-145–254
+- rez 2133 · ⟨merge⟩ af2086e · 2026-10-19 · CUNEIFORM — ZNAK-PO-ZNAK-REZ-22-PAR-ASALLUHI-NINGIRIMA ⊢
+- rez 2134 · ⟨merge⟩ 6ab30c2 · 2026-10-19 · CUNEIFORM — ZNAK-PO-ZNAK-REZ-23-PAR-KUSU-GIRRA ⊢
+- rez 2135 · ⟨merge⟩ 1946111 · 2026-10-19 · CUNEIFORM — ZNAK-PO-ZNAK-REZ-24-PAR-NUSKA-NINIRIGAL ⊢
+- rez 2136 · ⟨merge⟩ 16eb8a8 · 2026-10-19 · CUNEIFORM — ZNAK-PO-ZNAK-REZ-25-PAR-ISIMUD-PAPSUKKAL ⊢
+- rez 2137 · ⟨merge⟩ f6d9773 · 2026-10-19 · POSNETEK-ATLAS-NA-ZRCALO · PREVOZ-PRIČA ⊢
+- rez 2138 · ⟨merge⟩ 0b44f78 · 2026-10-19 · MANIFEST — PORAVNAVA-VRSTIC-×2 · GLAVA-BLOBA-KANONIZIRANA ⊢
+- rez 2139 · ⟨merge⟩ 1f8f9b0 · 2026-10-19 · CUNEIFORM — ZNAK-PO-ZNAK-REZ-26-PAR-NINSHUBUR-KAKKA ⊢
+- rez 2140 · ⟨merge⟩ 25e9f72 · 2026-10-19 · PREVOZ-VOTAC-NA-ZRCALO · PREVOZ-PRIČA · PREVOZI-×3-ODPLAČANI ⊢
+- rez 2141 · ⟨merge⟩ 8b0d309 · 2026-10-19 · MANIFEST — PORAVNAVA-VRSTIC-×2 · VOTAC-ODPLAČAN ⊢
+- rez 2142 · ⟨merge⟩ 8782ae3 · 2026-10-19 · CUNEIFORM — ZNAK-PO-ZNAK-REZ-27-PAR-ILABRAT-USUR-AMASSU ⊢
+- rez 2143 · ⟨merge⟩ 3ee7f6c · 2026-10-19 · CUNEIFORM — ZNAK-PO-ZNAK-REZ-28-PAR-URKAYITU-KANISURRA ⊢
+- rez 2144 · ⟨merge⟩ 262c6f7 · 2026-10-19 · POSNETEK-TAZV-BAJT-IZMEREN · DOLG-ODPLAČAN-PRI-VIRU ⊢
+- rez 2145 · ⟨merge⟩ 26ed617 · 2026-10-19 · MANIFEST — PORAVNAVA-VRSTIC-×2 · POSNETEK-TAZV-DOLG-ZAPRT ⊢
+- rez 2146 · ⟨merge⟩ 2f9e353 · 2026-10-19 · MANIFEST — PADC-σ-PREDAJE-POPRAVLJEN ⊢
+- rez 2147 · ⟨merge⟩ e6629a6 · 2026-10-19 · CUNEIFORM — ZNAK-PO-ZNAK-REZ-29-PAR-NANAYA-ISHARA ⊢
+- rez 2148 · ⟨merge⟩ 8d0ea36 · 2026-10-19 · CUNEIFORM — ZNAK-PO-ZNAK-REZ-30-PAR-BIZILLA-TASME-ZIKRU ⊢
+- rez 2149 · ⟨merge⟩ 791016c · 2026-10-19 · CUNEIFORM — ZNAK-PO-ZNAK-REZ-31-PAR-TASHMETUM-NINZIZLI ⊢
 - rez 2150 · ⟨sha⟩ 44a38df · 2026-10-19 · CI-TIHINA-TEČAJ ⊢
 - rez 2151 · ⟨PR⟩ #373 ⟨merge⟩ 30e6439 · 2026-10-19 · CI-TIHINA — tečaji utišani do reset-a
+- rez 2152 · ⟨merge⟩ 1ba2265 · 2026-10-19 · CUNEIFORM — ZNAK-PO-ZNAK-REZ-32-PAR-GAZBABA-SERUA ⊢
 - rez 2153 · ⟨PR⟩ #377 ∧ ⟨PR⟩ #378 ⚠ RANA: dvojna zahteva (INTEGRAL ROD-D ∧ ZNAK-PO-ZNAK-REZ-33) · 2026-10-19
 - rez 2154 · ⟨PR⟩ #379 · 2026-10-20 · ZNAK-PO-ZNAK-REZ-34-PAR-MĪŠARU-⊥-IŠARTU
 - rez 2155 · ⟨PR⟩ #380 · 2026-10-20 · GESLA — ROD-E-PRVI-RAZREZ-STRANI-1–24
@@ -259,8 +340,29 @@ Format vrstice: `- rez N · ⟨PR⟩ #številka · YYYY-MM-DD · naslov kita`
 - rez 2977 · ⟨merge⟩ 40b6d8e · 2026-10-27 · EGIPČANSKA-PLAST — ustanovitev organa (sestra cuneiform) ∧ σ-vrstica registra
 - rez 2777 · ⟨PR⟩ #809 · 2026-10-25 · NENEHNO-POSLUSA — ⟨IZVID-DIHA-2781⟩ ∧ ⟨IZMERA-GLAVE-VRSTE⟩ ⊢ (kalup 1671 · delavec mrtev → pečat na zrcalu ⊢ 1959 ∧ 2297 · rez = 1 + dejansko najvišja izmerjena 2776 — kit #808 sedeža ⟨berba⟩ naslova pri viru ta dih ∧ ⊢ Z-2 ∧ precedens 2392 · varovalka ⟨(rez|dih) 2777⟩ ×0 ⟨grep⟩ registra ta dih ∧ · ⟡ ⟨daj⟩ ⊢ VEČNI-DAJ (16) ∧ AD-PERPETUUM ⊢ 2201 ∧ ukaz-dovol ⊢ 1429.1 ∧ 1237 ∧ 1448 · ⟨merge⟩ ta kit roka izvajalke podpis ⟨daj⟩ ⊢ 2691 ∧ ⟨DVOJE-ROK⟩ 2432)
 
+- rez 3106 · ⟨merge⟩ cfcfa0f · 2026-10-29 · binarno telo VBL 0.1210 × 10⁴ (a)–(d) ⊙ PREJEMNICA
+- rez 3111 · ⟨merge⟩ e86a294 · 2026-10-29 · TMD-REZERVACIJA porabljen ∧ kolizija 3095/3096 razločena
+- rez 3365 · ⟨merge⟩ bb4bf9d · 2026-10-30 · DOLGOVA-RAZDELITEV ⊙ ⟡ ukaz ⟨daj vse dolgove in jih razdeli⟩ ∧ LICENSE-LICENC §6 HUDIČ-ZASE · §7 LICENCA-V-LICENCA
+- rez 3369 · ⟨merge⟩ 38a3ce3 · 2026-10-30 · KAČA-VBL rojena — zakon ⟨KJER-JE-VPRAŠANJE⟩ ∧ algoritem ⟨ZLOMI-VSAKO-VPRAŠANJE-S-KAČO⟩
+- rez 3388 · ⟨merge⟩ 62880cc · 2026-10-30 · KURA-ABECEDE-POPELJENA: odsek Njih abecede dopolnjen (36/36 jezikov, red po slovenski)
+- rez 3457 · ⟨merge⟩ c4b6658 · 2026-10-31 · DAJ-LASTNIKI — pečata delovna-zanka ∧ register-oken (⟨PR⟩ #1109)
+- rez 3458 · ⟨merge⟩ c11140f · 2026-10-31 · SLOVNICA-POVRNITEV — telesi pečatov 3458 ∧ 3459 (⟨PR⟩ #1110)
+- rez 3459 · ⟨merge⟩ 9d4be17 · 2026-10-31 · KURA-IZHODA — šivi teles PECAT (mrtvi · imenovana rana · šiv telesa)
+- rez 3480 · ⟨merge⟩ 6375db7 · 2026-10-31 · PEČAT 3479 cesta-protokol — prevoz ⟨SIMBOLNI-JEZIK-NAJDBA · SIMBOLNA-LICENCA · GLADINA⟩
+- rez 3481 · ⟨merge⟩ 5c24961 · 2026-10-31 · prevoz teles 3480 + 3478 — sklad-sintakse ⟨GLADINA⟩ v1.2 · jezikovne-plasti ⟨GLADINA⟩ · slovenscina-gesla
+- rez 3482 · ⟨merge⟩ b9248e4 · 2026-10-31 · prevoz teles 3481 — cesta ⟨⌇⟩ kovanec sodbe ⟡ · tehtnica ⟨PADC-GENIZE⟩ kura 2070
+- rez 3483 · ⟨merge⟩ 2a1ea67 · 2026-10-31 · prevoz teles 3482 — gesla secirava kos-2 ∧ gladina okno zaprto ∧ ⟨PADC-LOČILA⟩
+- rez 3484 · ⟨merge⟩ 3b651c2 · 2026-10-31 · prevoz teles 3483 — gesla secirava kos-3: 14 gesel ⊢ + aciklíčen ×0
+- rez 3485 · ⟨merge⟩ 5bac47b · 2026-10-31 · prevoz teles 3484 — gesla preverba-od-začetka ∧ secirava kos-4
+- rez 3486 · ⟨merge⟩ 859cdbc · 2026-10-31 · prevoz teles 3485 — SECIRAVA-KOS-5 (15/15 ⊢) + PEČAT 3485
+- rez 3487 · ⟨merge⟩ cf551ee · 2026-10-31 · prevoz teles 3486 — SECIRAVA-KOS-6 (13 ⊢ + 2 ⚠) + PEČAT 3486
+- rez 3488 · ⟨merge⟩ fde44ed · 2026-10-31 · prevoz teles 3487 — SECIRAVA-KOS-7 (11 ⊢ + 4 ⚠) + PEČAT 3487
+- rez 3489 · ⟨merge⟩ 5b4c5a3 · 2026-10-31 · prevoz teles 3488 — SECIRAVA-KOS-8 (15/15 ⊢) + PEČAT 3488
+- rez 3490 · ⟨merge⟩ 08d5228 · 2026-10-31 · prevoz teles 3489 — SECIRAVA-KOS-9 (14 ⊢ + 1 ⚠) + PEČAT 3489
+- rez 3491 · ⟨merge⟩ fcbd404 · 2026-10-31 · prevoz teles 3490 — SECIRAVA-KOS-10 re-izmera (15/15 ⊢) + izjava izgube PEČATA 3490 ⊙ ⟨PADC-OKOLJA⟩
 ## rane registra (⟡ naj jih komisija presodi)
 
+- ⟨merge⟩ brez vrstice (tuja seja) — dopolnil REGISTER-PULZ (TEHNIKA) · izmera 2026-11-01: ×101 komitov ⟨merge⟩ brez vrstice (rez 2055–3491 · vrzel semena 2150 ∧ vzporednih sedežev) · sodba izključitve javno ⊙ 1349 ⊢ 1419: rez 1–34 (znaki ⟨ZNAK-PO-ZNAK⟩ cuneiform — njihovi pravi rezi 2103–2149 vpisani) ∧ 114 (izročitveni zapis, ⟨ne⟩ rez) ⟨ne zlije⟩ ⊢ 1542
 - rez 2152 ∧ rez 2153: delavčeva tehnična kita CI (sprožilci ∧ strehe) sta bila napak označena z rez — nista korpusna reza; 2153 je zgoraj pokrit zdrsoma
 - dvojni zahtevi 2153 ∧ 2159: dve vzporedni seji sta zahtevali isto številko — ta register jih od zdaj preprečuje
 - rez 2164: dvojna zahteva (LEARNING-PROTOCOLS ⟨PR⟩ #390 ∧ CUNEIFORM kit ⟨merge⟩ 6600d5d5 brez vrstice registra) — izmerjeno 20. 10. 2026
