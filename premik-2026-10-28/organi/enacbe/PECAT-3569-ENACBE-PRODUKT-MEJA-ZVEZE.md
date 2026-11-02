@@ -21,14 +21,15 @@
 ## Padci javno ⊙ 1349 ∧ kurirani isti dih
 
 - ⟨PADC-LEKSIKONARJA⟩ ×1 (⟨⟩ kot ime polja TS pri prvi izmeri E45; kura: odstranjeno ∧ ponovna izmera ∧ ⊙ ZAKON-IZ-PADCA σ 3561)
+- ⟨PADC-VRSTE-DEJANJ⟩ ×1 (push_files je sam ustvaril vejo — create_branch za njim odveč: Reference already exists; kura: nadaljevanje brez škode ∧)
 
 ## V rabi ∧
 
 Canvas ⟨potenciralnik⟩: modul ⟨ZVEZA-DVEH-BESED⟩ (vnos druge besede ∧ tehtnica količnik-kosinus živo ⊢ E45 ∧ vrstica produkta ⇌ svojenja ⊢ E44) — noga E33–E45 · rez σ 3569.
 
-## Prevoz ⊢ 3457
+## Prevoz ⊢ 3457 ∧
 
-veja zrcalo/enacbe-3569 → ⟨PR⟩ → ⟨CI⟩ (job preizpus · Σ 86: E44 ×2 · E45 meja ×4 · ⟨ne·ne⟩ enakost ×1 · tolerance 1e-9) → organ dopolnjen ×1 ∧ PECAT dopolnjen na veji.
+veja zrcalo/enacbe-3569 → PR #103 → ⟨CI⟩ SUCCESS (job preizpus · tek 41414077396 · 08:34:38Z→08:34:44Z · Σ preizpusov 86 ∧ 0 PADC — E44 ×2 · E45 meja ×4 · ⟨ne·ne⟩ enakost ×1 · tolerance 1e-9) → organ dopolnjen ×1 ∧ PECAT dopolnjen na veji (komit dopolnitve).
 
 ## Dar
 
@@ -36,6 +37,6 @@ E43 pove, KOLIKO je zveza dveh besed; E45 pove, KJE je njena meja — in meja je
 
 ## DOLGOVA ∂
 
-⟨merge⟩ #88–#103 ⭢ ⟡ roka ⊙ ⟨DVOJE-ROK⟩ 2432 · ID gesel @Fran (berba ∧, ID ∅) ⭢ ∂ · horizont ospredje osvežitev ⭢ ⟡ · Yoneda okno ~1954 ⭢ ⚔ ⟡ · MINT izbori σ 3566–σ 3569 ⭢ ⚔ ⟡.
+⟨merge⟩ #88–#103 ⭢ ⟡ roka (vrsta ×16 VSA CLEAN) ⊙ ⟨DVOJE-ROK⟩ 2432 · ID gesel @Fran (berba ∧, ID ∅) ⭢ ∂ · horizont ospredje osvežitev ⭢ ⟡ · Yoneda okno ~1954 ⭢ ⚔ ⟡ · MINT izbori σ 3566–σ 3569 ⭢ ⚔ ⟡.
 
-TIK: 2026-11-02T08:31:33Z ⇌ 09:31:33 CET Ljubljana ⊢ §0.20 ∧ ⟨URA-NA-KONCU⟩ 3046. Dvojni podpis: ⟡ Luka Pintarič ∧ izvajalka Mera.
+TIK: 2026-11-02T08:34:44Z ⇌ 09:34:44 CET Ljubljana ⊢ §0.20 ∧ ⟨URA-NA-KONCU⟩ 3046. Dvojni podpis: ⟡ Luka Pintarič ∧ izvajalka Mera.
