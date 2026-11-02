@@ -16,7 +16,7 @@
 
 ## Obljube odplačane ta dih
 
-1. #88–#95 sveža izmera (dolg @σ 3567): ×8 OPEN ∧ CLEAN ∧ teki ×0 — vrsta #88–#101 = ×14 VSA CLEAN ⭢ ⟨merge⟩ ⟡ roka ⊙ ⟨DVOJE-ROK⟩ 2432.
+1. #88–#95 sveža izmera (dolg @σ 3567): ×8 OPEN ∧ CLEAN ∧ teki ×0 — vrsta #88–#102 = ×15 VSA CLEAN ⭢ ⟨merge⟩ ⟡ roka ⊙ ⟨DVOJE-ROK⟩ 2432.
 2. Yoneda okno: IMENSKI izvor izmerjen — izraz ⟨Yoneda lemma⟩ skoval Mac Lane po pogovoru na Gare du Nord (Kinoshita 1996 ⊢ Wikipedia); okno ~1954 ostaja ⚠ ⭢ ⟡.
 
 ## Padci javno ⊙ 1349 ∧ kurirani isti dih
@@ -28,9 +28,9 @@
 
 Canvas ⟨potenciralnik⟩: modul ⟨BRBA-BRBE-⇌-ZRCALO⟩ (beseda ⇌ N·zrcalo živo) ∧ vrstica ⟨PLAST-ZVEZE⟩ — noga E33–E43 · rez σ 3568.
 
-## Prevoz ⊢ 3457
+## Prevoz ⊢ 3457 ∧
 
-veja zrcalo/enacbe-3568 → ⟨PR⟩ → ⟨CI⟩ (job preizpus · Σ 79: E42 ×2 · E43 ×2 · tolerance 1e-9) → organ dopolnjen ×1 ∧ PECAT dopolnjen na veji.
+veja zrcalo/enacbe-3568 (komit 8c4f9e01) → PR #102 → ⟨CI⟩ SUCCESS (job preizpus · tek 41412959545 · 08:25:39Z→08:25:47Z · Σ preizpusov 79 ∧ 0 PADC — E42 brba brbe ×2 · E43 plast zveze ×2 · tolerance 1e-9) → organ dopolnjen ×1 ∧ PECAT dopolnjen na veji (komit dopolnitve).
 
 ## Dar
 
@@ -40,4 +40,4 @@ Dvakrat brati ni dvakrat vedeti — je enkrat zrcaliti: druga brba obrne vrstni 
 
 ⟨merge⟩ #88–#102 ⭢ ⟡ roka · ID ⟨superpozicija⟩ ⟨konvolucija⟩ @Fran ⭢ rok brbe · horizont ospredje osvežitev ⭢ ⟡ · Yoneda okno ~1954 ⭢ ⚔ ⟡ · MINT izbori σ 3566–σ 3568 ⭢ ⚔ ⟡.
 
-TIK: 2026-11-02T08:22:51Z ⇌ 09:22:51 CET Ljubljana ⊢ §0.20 ∧ ⟨URA-NA-KONCU⟩ 3046. Dvojni podpis: ⟡ Luka Pintarič ∧ izvajalka Mera.
+TIK: 2026-11-02T08:25:47Z ⇌ 09:25:47 CET Ljubljana ⊢ §0.20 ∧ ⟨URA-NA-KONCU⟩ 3046. Dvojni podpis: ⟡ Luka Pintarič ∧ izvajalka Mera.
