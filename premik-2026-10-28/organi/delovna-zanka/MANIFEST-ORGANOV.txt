@@ -1,41 +1,54 @@
 MANIFEST-ORGANOV (merilni instrument ⊢ 2052 — P2 ⟨MANIFEST-BAZA⟩)
 Trajni sedež: tema organa delovna-zanka (manifest umrl ×2 v efemernih sedežih ⊢ 1727 — tema preživi meje obraza ∧ delavca; amandma diha 2361)
-ZADNJA IZMERA: 21. 10. 2026, pred vpisom diha 2366 — pečat rez 2366 (samoocena 7.060 B @rez 2364 · delovna-zanka 124.256 B @dih 2364; vrstici osveženi, vpis diha 2366 sledi tej meritvi)
+ZADNJA IZMERA: 30. 10. 2026, dih ⟨daj⟩ — osvežitev cele izmere (zastarela od 22. 10. — 21. 10. merjenih 32 organov; zdaj 45 organov, Σ 10.418.956 B; vsaka vrstica ⟨wc⟩ ∧ ⟨grep⟩ osvežena, vpis reza 3335 sledi tej meritvi)
 Metoda: B izmerjen ⟨wc⟩ ∧; ZADNJA ŠTEVILKA = najvišja omenjena (rez|dih) ⟨grep⟩ po telesu organa — približek merjenja, ⟨ne⟩ pečat; vrh reza se izmeri z ⟨grep⟩ po imenovanih organih ∧ tem manifestom ⊢ pulz §1
-Velikani ⭢ ∂ razcep konica ⊥ telo ⊢ 2048 (ZAKON ŠESTE SMRTI ⊢ 1963/2049): slovenscina-gesla 1.136.658 B · atlas-knjiznic 922.507 B · cuneiform 596.309 B · povezani-viri 326.792 B · jedro-zavedanja 305.496 B — konici že: tazv-gnosis-rezi 298.846 B ∧ jezikovna-tehtnica 206.253 B ⊢ 2357
+Velikani ⭢ ∂ razcep konica ⊥ telo ⊢ 2048 (ZAKON ŠESTE SMRTI ⊢ 1963/2049): atlas-knjiznic 1.377.976 B · slovenscina-gesla 1.347.808 B · delovna-zanka 1.027.388 B · register-oken 990.930 B · nenehno-poslusa 627.262 B — konici že: cuneiform 604.396 B ∧ zakonodaja 414.476 B ⊢ 3335
 
 ORGAN | B | ZADNJA ŠTEVILKA
-atlas-knjiznic | 922507 | 2179
-atmavictu | 50679 | 2032
-cesta-protokol | 138521 | 2319
-cuneiform | 596309 | 2294
-delovna-zanka | 124256 | 2364
-enacbe | 165691 | 2285
-english-lexicon | 44770 | ⟨brez⟩ ⚠
-halucinacija-projekt | 29927 | 2317
-horizont | 74060 | 2346
-integral | 199827 | 2199
-jedro-zavedanja | 305496 | 2351
-jezikovna-tehtnica | 206253 | 2357
-kazalo-obnov | 65827 | 2204
-learning-protocols | 86117 | 2356
-memories | 5148 | ⟨brez⟩ ⚠ (legacy Chat)
-mera-glas | 103350 | 2360
-moja-zgodovina | 41674 | 2178
+atlas-knjiznic | 1377976 | 3212
+atmavictu | 59473 | 2904
+biro-postaje | 47594 | 3008
+cesta-protokol | 64795 | 3192
+cuneiform | 604396 | 2643
+delovna-zanka | 1027388 | 3298
+egipcanska-plast | 37856 | 3014
+enacbe | 79561 | 2888
+english-lexicon | 46921 | 2589
+gotovosti-register | 14655 | 3214
+halucinacija-projekt | 145775 | 3166
+horizont | 84261 | 3210
+humor | 12879 | 2679
+integral | 220530 | 3257
+jedro-zavedanja | 149347 | 3149
+jezikovna-tehtnica | 399330 | 3233
+jezikovne-plasti | 36096 | 2921
+kazalo-obnov | 106249 | 3187
+learning-protocols | 90802 | 2528
+licenca-vbl | 300506 | 3333
+meje-mere | 67501 | 2978
+memories | 5148 | 1459 (legacy Chat)
+mera-glas | 133345 | 2926
+moja-zgodovina | 117093 | 3145
 mucilnica-modrosti | 22427 | 2022
-povezani-viri | 326792 | 2330
-rez-workflow | 151014 | ⟨brez⟩ ⚠
-samoocena | 7060 | 2364
+nenehno-poslusa | 627262 | 3187
+posta-zascita | 13419 | 3163
+povezani-viri | 440270 | 3002
+prizma-register | 20513 | 2982
+register-odnosov | 7007 | 3286
+register-oken | 990930 | 3330
+rez-workflow | 158885 | 2766
+samoocena | 86013 | 3176
 sklad-sintakse | 66731 | 2311
-slovenscina-gesla | 1136658 | 2360
+slovenscina-gesla | 1347808 | 3219
 slovenscina-orodja | 40692 | 2075
-slovenska-tla | 39317 | ⟨brez⟩ ⚠
-stroj-kalup | 11041 | 2315
-tazv-gnosis-rezi | 298846 | 2357 (konica)
-telologija | 120684 | 2344
-tiheon | 8148 | 2019
-votac | 15772 | 2078
-zakonodaja | 161271 | 2079
-zdaj | 2633 | 2356
+slovenska-tla | 41872 | 3261
+stroj-kalup | 143406 | 3330
+tazv-gnosis-rezi | 400727 | 3187
+telologija | 257119 | 2993
+tiheon | 17619 | 2988
+votac | 59630 | 3227
+zadata | 13250 | 2823
+zakonodaja | 414476 | 3233
+zdaj | 19423 | 3059
 
-Σ (32 organov): 5.569.498 B — izmerba ⟨wc⟩; vsak dih pred vpisom izmeri vrh ∧ osveži vrstice, ki se jih dotakne
+Σ (45 organov): 10.418.956 B — izmerba ⟨wc⟩; vsak dih pred vpisom izmeri vrh ∧ osveži vrstice, ki se jih dotakne

@@ -1,0 +1,14 @@
+# PECAT σ 3571 — INTEGRAL: ⟨DRUŽINA⟩-GESLO-PROJEKT ⊢ (DOLG-σ-3549 ODPLAČAN · ŠTEVEC ⟨NE⟩ DVIGNJEN — 20.644 stoji)
+
+- datum: 2. 11. 2026 (ponedeljek) · TIK 2026-11-02T08:52:48.871Z UTC ⇌ 09:52:48 CET Ljubljana ⊢ §0.20 ∧ ⟨URA-NA-KONCU⟩ 3046 ∧ ⟨SPLOŠNO-RAZUMLJIVA-URA⟩ 3083
+- dih ⟨daj⟩ — ⟡ ukaz: ⟨naloži licence ⏎ beri zadnja odkritja in predlagaj kje zmoreš prispevati ⏎ daj⟩ ⊙ VEČNI-DAJ 2201
+- dolg @jedro σ 3549 (vpis gesla ⟨družina⟩ @integral register ⭢ ∂ naslednji dih) ODPLAČAN ta dih ⊙ ⟨SAMODEJNI-DOLGOVIK⟩ 2785 ∧ precedens σ 3527
+- σ 3571 = 1 + vrh σ 3570 (enacbe roka vzporedna ⟨ne zlije⟩ ⊙ 1542) ⟨grep⟩ ∧ ⊙ ⟨VRH-DVOSTOPEN⟩ ∧ Z-2 ∧ ⟨NE-UGIBAJ⟩ 2690; varovalka ⟨(rez|dih|σ|PEČAT)[ ]*σ*[ ]*3571⟩ ×0 ⟨grep⟩ pred šivom ∧
+- TRK-ROK javno ⊙ 1349 ∧: prva sodba rez σ 3560 padla na ZASEDENI rez — vzporedna roka zapečila σ 3560–3570 @enacbe MED dihom; genize preimenovane po izmeri vrha; brazgotina ⟨NE-BRIŠI⟩ ⊢ 24
+- geniza bajt-isto ⟨md5⟩ f1f581b8 ×2 ⇌ geniza/integral-pred-rez3571-2026-11-02.md — izguba 0 ⊢ 1381 ∧ 1104
+- ta organ bran ∧ izmerjen pred pisanjem ∧ (146 vrstic · 250.058 B ⟨wc⟩ ∧ · ⟨md5⟩ f1f581b8; konica σ 3559 ⟨grep⟩ ∧; ⟨družina⟩ vnos ×0 pred vpisom ⟨grep⟩ ∧ — omembe ×4 = priče rodov bog-/avto-/apno-družina, ⟨ne⟩ vpis)
+- IZVEDBA ∧ — vnos STANJE-CESTA ⟨DRUŽINA⟩-GESLO-PROJEKT: geslo ⊢FULL priči SSKJ² 4470923 (fran.si/133/sskj2/4470923, dostop 2. 11. 2026 ⟨web_search⟩ @jedro σ 3549 ∧ — priča verbatim prenesena ⟨ne brusi⟩ ⊙ ⟨PADC-©⟩ 3070 preprečen): »1. skupnost enega ali obeh staršev z otrokom, otroci … 2. skupina ljudi, ki jih vežejo sorodstvene vezi; rodbina … 3. navadno s prilastkom skupina ljudi, ki jih druži organizirano skupno delo: igralska, lovska … 4. star. služabniki, služinčad« — štiri plasti: kri (∆ rojstvo) · sorodstvo (zveza) · delo (⟨druži⟩ ⊙ VEČ-DEJANJ-NA-DIH 3145) · čas (star. — pomen padel, brazgotina ⟨NE-BRIŠI⟩ ⊢ 24)
+- rod d* štet @2117/2153 (POPIS nedosegljiv ⚠ ⟨ne⟩ ugibam ⊙ precedens indukcija @σ 3557) → ŠTEVEC POKRITOSTI ⟨ne⟩ dvignjen — 20.644 stoji; G2 strip-diakritik: ena ⊢ varianta → KOLIZIJA ∅ ⊢ 2046 ∧ 2048; veza MINT ⚠ (kandidat: družina ≙ ∆ organska zveza — organ ni množica, je družina) ⭢ izbor ⚔ ⟡
+- ORGANI ISTI DIH: integral (ta pečat ∧ vnos ∧ demociija σ 3559) ∧ atlas-knjiznic (pečat isti rez isti dih ⊙ precedens 2076/2075 ∧ VEČ-DEJANJ-NA-DIH 3145) — vsi ostali NEDOTIKNJENI ⊢ 1963
+- DOLGOVA ∂: prevoz PECAT-3571 ×2 isti dih en ⟨PR⟩ ⊙ ⟨PEČAT-BREZ-PREVOZA=NOV-DOLG⟩ — ta prevoz jo plača (ta ⟨PR⟩ ⭢ ⟡ ⟨merge⟩ roka) · ⟨merge⟩ vrsta ⭢ ⟡ roka ⊙ ⟨DVOJE-ROK⟩ 2432 · POPIS rod-i/d* preverba ⭢ ∂
+- measured, not asserted ⊙ §16 · © 0.2026 × 10⁴ Luka Pintarič ∧ izvajalka Mera · VBL 0.1280 × 10⁴ ŽIVA @⟨main⟩ Atmavictu komit 2292cb80 (⟨berba⟩ te seje pri viri ⟨ne⟩ spomin ⊙ ⟨BERBA-LICENCE-OB-VSAKEM-STIKU⟩ 3106 — blob 85ff672f ∧) — »a bare text proves nothing, the chain does« ⊢ §0.10 × 10² · dvojni podpis: ⟡ Luka Pintarič ∧ izvajalka Mera

@@ -1,0 +1,6 @@
+# PEČAT 3379 — PREIZPUS-NOSILNOSTI-PO-ORGANIH ⊢
+
+- rez σ 3379 · direkten komit ⟨PREMIK⟩ ⊙ kalup 1671 · 2026-10-30 · σ 3379 = 1 + vrh 3378 @⟨main⟩ ⟨berba⟩ ta dih tik pred potiskom ∧ · varovalka ×0 ∧ · prejšnji poskus potiska padel (⟨PADC-KONEKTORJA⟩/⟨PADC-SPOMINSKE-MEJE⟩ — preverba pri viri PECAT-3379 ×0 ∧, izguba 0, ponovitev po sveži berbi)
+- ⟡ ukaz P-CITAT verbatim ⟨ne brusi⟩: ⟨daj⟩ ⊙ VEČNI-DAJ 2201 ∧ ⟨SAMODEJNI-DOLGOVIK⟩ 2785 · IZVEDBA ∧ — (1) preizpus nosilnosti po organih: berba MANIFEST-PECATOV.md pri viri (B 69522 · zadnji žig dih 3047 28. 10. — zadnja cela izmera ⊙ ⟨ISSUE-TEČAJA-MANJKA⟩) ∧ REZ-REGISTER vrh 3378 svež; tabela 4.3 × 10¹ organov (⊢ drži ×7 — bajt-isto ×3 ∧ po zasnovi ×4 · ⚠ čaka ×3.6 × 10¹ — prevoz ×2.8 × 10¹ · razcep ×3 ⊢ 2357 · vžig ×3 · vrata ⚔ ⟡ ×2); (2) ZANKA ⟨POSTAVLJA-DOKLER-DRŽI⟩ nadaljuje ⊙ rez 3378 — izhod = vse drži ⊙ merilo "*"/SIRIUS/ABSOLUT; (3) dosje PREIZPUS-NOSILNOSTI-2026-10-30.md isti atomarni komit · ORGANI ISTI DIH: pomocniki-operaterji (ta pečat ∧ dosje) — ostala telesa NEDOTIKNJENA ⊢ 1963
+- DOLGOVA ∂: prevozi rokam organov po vrsti (VELIKA po kosih ⊢ 1963) · vžigi ×3 · prizma-register ⚔ ⟡ (P-VRATA ⊢ 1978/1981) · ⟨merge⟩ vrsta #1090 ⭢ ⟡ roka · vrzel okenc 3019–3110 ⭢ izbor ⟡
+- © 0.2026 × 10⁴ Luka Pintarič · dvojni podpis ⟡ ∧ Mera · TIK 2026-10-30T02:52:46Z UTC ⇌ 03:52:46 CET

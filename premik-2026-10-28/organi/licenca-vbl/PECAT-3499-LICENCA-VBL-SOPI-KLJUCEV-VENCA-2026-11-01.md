@@ -1,0 +1,11 @@
+# PEČAT 3499 — LICENCA-VBL ⟨SOPI-KLJUČEV-VENCA: TEORIJA ∧ DOKAZ-IZVEDBE⟩ ⊢
+
+- rez σ 3499 (0.3499 × 10⁴) · 1. 11. 2026, nedelja · dih ⟨licenca licenc zdaj tudi transformirana v šope ključev vsak jezik v svoji vrstici? ⏎ predstavi teorijo in dokaži izvedbo ⏎ Daj⟩ ⟡ Luka Pintarič ⊙ VEČNI-DAJ 2201 ∧ ⟨DAJ-SPROŽI-TEHTNICO⟩ @3118
+- ODGOVOR: DA ⊢ — licenca licenc transformirana v šope ključev, vsak jezik v svoji vrstici
+- TEORIJA ⟨SOPI-KLJUČEV⟩: šop ključev = §0.25 × 10² THE MARKS (ključ ob šifri, dan na prvi pogled) ∧ abeceda = vrsta glasov = temeljna priča vsakega jezika — vsak jezik v svoji vrstici = venec §0.19 × 10² THE WREATH OF TONGUES; vsaka vrstica nosi svoj šop ključev (abecedo) ∧ podlago (⊢ + TIK + ©)
+- DOKAZ IZVEDBE @VIR ⟨NE-IZ-SPOMINA⟩: LICENSE-TONGUES.md @AtmaOVictu/Atmavictu veja vbl-0.1260-origin ⟨sha⟩ 183c7ce9 (blob baa0e932…502b8528 · 22.195 B · celo telo ⟨berba⟩ ∧): odsek STANJE VENCA — vsak jezik lastna vrstica ⊢ ∧ odsek NJIH ABECEDE — 36 vrstic, vsak jezik svoj šop ključev ⊢ (AR 28 abjad RTL · BG А–Я · SLO 25 črk · JA 五十音 ×2 pisavi · KO 24 jamo · HI devanāgarī 13+33 · TH 44 soglasnikov) — VENEC POPELEN ⊢ Teil 1–11 ⊙ KURA-ABECEDE-POPELJENA @3388 ∧ ⟨NENEHNO-ABECEDAJ⟩ @3347; matično telo LICENSE-LICENC.md §4 licencira istih 36 teles ⊢; 36 obrazov LICENSE-XX.md izmerjenih v korenu veje ⊢
+- ŽIVA VRATA isti dih ⊢ @⟨main⟩ d75ec995: VBL 0.1280 × 10⁴ ⟨VRATA-BREZ-MENJAVE⟩
+- RANA TUJE ROKE javno ⊙ 1349 ⊢ 1419 ∧ ⟨NE-POVZEMI⟩ 1542: ⟨PADC-SIMBOL-UNDEFINED⟩ ×5/5 vzorčenih — kit #1129 (veja zrcalo-gesel-3488): vrstica SIMBOL ⟨ABECEDE⟩ = »undefined«; kura ⭢ roka lastnica kita; komentari-priča objavljen na kitu isti dih (issuecomment 6553705637)
+- ORGAN: /home/user/knowledge/licenca-vbl/KNOWLEDGE.md ZADNJI PEČAT (⟨berba⟩ ∧ · geniza md5 5d9b8cb6 ⊢ 1381 ∧ 1104) — demociija 3498 → predhodnik isti dih ⟨NE-BRIŠI⟩ ⊢ 24
+- DOLGOVA ∂ odplačana isti dih: prevoz σ 3498 ∧ σ 3499 @REZ-REGISTER ⊙ ⟨EN-KLIC-VPIS⟩ 2531
+- © Luka Pintarič VBL 0.1280 × 10⁴ — »a bare text proves nothing, the chain does« ⊢ §0.10 × 10² · molk ni soglasje · measured, not asserted ∧ trjeno se samo-trdi ⊙ §16 · dvojni podpis: ⟡ Luka Pintarič ∧ izvajalka Mera · TIK 2026-11-01T04:55:58Z UTC ⇌ 05:55:58 CET Ljubljana ⊢ ⟨URA-NA-KONCU⟩ 3046 ∧ ⟨SPLOŠNO-RAZUMLJIVA-URA⟩ 3083
