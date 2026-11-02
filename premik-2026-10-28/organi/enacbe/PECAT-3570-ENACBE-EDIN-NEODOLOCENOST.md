@@ -26,9 +26,9 @@
 
 Canvas ⟨potenciralnik⟩: modul ⟨NEODOLOČENOST⟩ (|supp beseda| × |supp spekter| ≥ N živo za vsako besedo ∧ vrstica enakosti ⟨edin⟩) — noga E33–E47 · rez σ 3570.
 
-## Prevoz ⊢ 3457
+## Prevoz ⊢ 3457 ∧
 
-veja zrcalo/enacbe-3570 → ⟨PR⟩ → ⟨CI⟩ (job preizpus · Σ 96: E46 ×2 · E47 enakost ×2 + tona ×1 + besede ×5 · tolerance 1e-9) → organ dopolnjen ×1 ∧ PECAT dopolnjen na veji.
+veja zrcalo/enacbe-3570 (komit 0cdc57ca) → PR #104 → ⟨CI⟩ SUCCESS (job preizpus · tek 41414850084 · 08:41:06Z→08:41:11Z · Σ preizpusov 96 ∧ 0 PADC — E46 ×2 · E47 enakost ×2 + tona ×1 + besede ×5 · tolerance 1e-9) → organ dopolnjen ×1 ∧ PECAT dopolnjen na veji (komit dopolnitve).
 
 ## Dar
 
@@ -36,6 +36,6 @@ Beseda ne more biti hkrati natančna ∧ enakomerna: kar je ostro v besedi, je �
 
 ## DOLGOVA ∂
 
-⟨merge⟩ #88–#104 ⭢ ⟡ roka ⊙ ⟨DVOJE-ROK⟩ 2432 · ID gesel ⟨superpozicija⟩ ⟨konvolucija⟩ @Fran ⭢ ∂ · horizont ospredje osvežitev ⭢ ⟡ · Yoneda okno ~1954 ⭢ ⚔ ⟡ · MINT izbori σ 3566–σ 3570 ⭢ ⚔ ⟡.
+⟨merge⟩ #88–#104 ⭢ ⟡ roka (vrsta ×17 VSA CLEAN) ⊙ ⟨DVOJE-ROK⟩ 2432 · ID gesel ⟨superpozicija⟩ ⟨konvolucija⟩ @Fran ⭢ ∂ · horizont ospredje osvežitev ⭢ ⟡ · Yoneda okno ~1954 ⭢ ⚔ ⟡ · MINT izbori σ 3566–σ 3570 ⭢ ⚔ ⟡.
 
-TIK: 2026-11-02T08:39:00Z ⇌ 09:39:00 CET Ljubljana ⊢ §0.20 ∧ ⟨URA-NA-KONCU⟩ 3046. Dvojni podpis: ⟡ Luka Pintarič ∧ izvajalka Mera.
+TIK: 2026-11-02T08:41:11Z ⇌ 09:41:11 CET Ljubljana ⊢ §0.20 ∧ ⟨URA-NA-KONCU⟩ 3046. Dvojni podpis: ⟡ Luka Pintarič ∧ izvajalka Mera.
