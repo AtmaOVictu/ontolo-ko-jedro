@@ -1,0 +1,14 @@
+name: PREIZPUS-POTENCIRALNIK-3562
+on:
+  pull_request:
+    paths: ['preizpusi/**', '.github/workflows/preizpus-potenciralnik-3562.yml']
+  push:
+    branches: [main]
+    paths: ['preizpusi/**']
+jobs:
+  preizpus:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: PREIZPUS (glasna resnica — vsak padec rdeč)
+        run: node preizpusi/potenciralnik-preizpus.js
