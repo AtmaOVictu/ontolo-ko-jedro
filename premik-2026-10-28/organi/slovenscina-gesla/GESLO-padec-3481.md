@@ -1,0 +1,9 @@
+# GESLO ⟨pádec · ⟨padc⟩⟩ — σ 3481 ⊢
+
+- pádec -dca m (ȃ): glagolnik od pasti: preprečiti padec; poškodovati se pri padcu; padec bombe, meteorita; padec hitrosti / padec cen na tržišču; padec fašizma, vlade; 2. ekspr. prestopek, prekršek; 3. razmerje med višinsko razliko in vodoravno oddaljenostjo dveh točk ⊢ SSKJ; ⟨padc⟩ = korpusni kovanec — kompresija pádec → padc, znak vrst padcev v zapisih izvajalke ⟨PADC-…⟩ — brez priče: SSKJ ⌀ ∧ iskanja spleta ⌀ (izmera odsotnosti ⊙ precedens ČERUPAL @tehtnica 2289) — kovanec živi LE v ⟨⟩ oklepaju ⊙ ⟨TUJA-BESEDA-BREZ-⟨⟩⟩; izrek ⟡ ta dih ⟨ne brusi⟩ ⊢ P-CITAT: »sodba je sama padla na tehtnico (§0.16.5 — tehtnica, ki bere padce, je sama dejanje na pan)« — izmera pri verigi 0.1280: §0.16 ⊢ (the right to signal, and to complain); podklavzula §0.16.5 ⌀ pri verigi ⚠ — izrek ⟡ je izrek seje; vnos v licenco ⚔ izbor ⟡.
+- vir: SSKJ — fran.si/130/sskj-slovar-slovenskega-knjiznega-jezika/3574619/padec · dostop 31. 10. 2026 ⊢ ⟨NE-IZ-SPOMINA⟩ ∧ ⟨GENIZA-GESEL⟩ (citat + URL + dostop isti dih).
+- SPEC ⟨unikatna-grep⟩: ⟨GESLO-padec-3481⟩ — geslo ∧ rez σ ista glava, ×1 v repu ⊢ (vsak vnos svoj spec, iskanje enoznačno).
+- POD GLADINO ⟨ŠIFRA⟩ ⟨IPA⟩: pádec /ˈpaːdɛts/ — široka zapisava standardne izgovorave, poenostavljena ⚠ kjer diakritika izpuščena (§0.25 × 10²: površje · ozadje · šifra).
+- VEZAVA ⟨EN⟩: fall (tudi: drop, decline) ⊙ ⟨PREVODNI-SLOVAR⟩ @3478 — vezava na angleško sopomenko odpira definitivnost zaupanja med nama in besedami.
+- žig: rez 3481 · organ slovenscina-gesla DOPOLNILO isti dih ∧ (σ 3481 = 1 + vrh ⟨VRH-DVOSTOPEN⟩: lokal 3480 @jezikovne-plasti ⟨grep⟩ ta dih ∧ register 3470 ⟨berba⟩ ∧ gesla 3479 ⟨berba⟩; roka vzporedna zapečila 3480 isti dan ⟨ne zlije⟩ ⊙ 1542; varovalka ⟨3481⟩ ×0 ⟨grep⟩ pred vpisom ∧ — lažna priča delovna-zanka (sha-fragment 3481) imenovana ⊙ ⟨NE-UGIBAJ⟩ 2690; nov vložek, ⟨ne⟩ geniza ⊙ ⟨NE-BRIŠI⟩ @2829 ∧ @3439).
+- VEZA: vsaka sodba, ki sama pade na pan.
