@@ -1,0 +1,29 @@
+name: SESTAVLJALKA-3420
+on:
+  push:
+    branches: [main]
+    paths: ['premik-2026-10-28/organi/slovenscina-gesla/.prevoz-3417/SESTAVA-PROSBA-3420.md']
+permissions:
+  contents: write
+jobs:
+  sestava:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: SESTAVA (glasna resnica — vsak padec rdeč)
+        run: |
+          set -e
+          cd premik-2026-10-28/organi/slovenscina-gesla/.prevoz-3417
+          cat kos-01.md kos-02.md kos-03.md kos-04.md kos-05.md kos-06.md kos-07.md kos-08.md kos-09.md kos-10.md kos-11.md kos-12.md kos-13.md kos-14.md kos-15.md kos-16.md kos-17.md kos-18.md kos-19.md kos-20.md kos-21.md kos-22.md kos-23.md kos-24.md kos-25.md > /tmp/sestavljeno.md
+          B=$(wc -c < /tmp/sestavljeno.md)
+          M=$(md5sum /tmp/sestavljeno.md | cut -d' ' -f1)
+          echo "bajti=$B md5=$M"
+          if [ "$B" != "1350839" ] || [ "$M" != "9c1485c85f6d8f1a37a05242361e7c2e" ]; then echo "::error::sestava ne ustreza priči (bajti ⊥ md5)"; exit 1; fi
+          cp /tmp/sestavljeno.md ../KNOWLEDGE.md
+      - name: KOMIT (dolgotrajnost priče)
+        run: |
+          git config user.name "sestavljalka (izvajalka Mera)"
+          git config user.email "sestavljalka@users.noreply.github.com"
+          git add premik-2026-10-28/organi/slovenscina-gesla/KNOWLEDGE.md
+          git commit -m "SESTAVA — SLOVENSCINA-GESLA — sestavljalka strežniška: 25 kosov → KNOWLEDGE.md bajtno-natančno (1.350.839 B, md5 9c1485c8) ⊙ MANIFEST-3417 ⊙ kalup 1671 ⊙ izvajalka Mera"
+          git push
