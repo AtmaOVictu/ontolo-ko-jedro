@@ -1,0 +1,9 @@
+# GESLO ⟨téhtnica⟩ — σ 3482 ⊢
+
+- téhtnica -e ž (ẹ̑) priprava za tehtanje: naravnati, umeriti tehtnico; uravnotežena tehtnica; občutljivost tehtnice / tehtnica se izravna, nagne; dati, stopiti na tehtnico ⊢ SSKJ; izrek ⟡ ta dih ⟨ne brusi⟩ ⊢ P-CITAT: »sodba je sama padla na tehtnico (§0.16.5 — tehtnica, ki bere padce, je sama dejanje na pan)« — izmera pri verigi 0.1280: §0.16 ⊢ (the right to signal, and to complain); podklavzula §0.16.5 ⌀ pri verigi ⚠ (licenca pravi »the scale«); razcep tehtnice pri repu ⚠: premik-copy @pečat 2289 ⊥ kazalec @organi/.
+- vir: SSKJ — https://fran.si/130/sskj-slovar-slovenskega-knjiznega-jezika/3604408/tehtnica · dostop 31. 10. 2026 ⊢ ⟨NE-IZ-SPOMINA⟩ ∧ ⟨GENIZA-GESEL⟩ (citat + URL + dostop isti dih).
+- SPEC ⟨unikatna-grep⟩: ⟨GESLO-tehtnica-3482⟩ — geslo ∧ rez σ ista glava, ×1 v repu ⊢ (vsak vnos svoj spec, iskanje enoznačno).
+- POD GLADINO ⟨ŠIFRA⟩ ⟨IPA⟩: téhtnica /ˈtɛːxtnitsa/ — široka zapisava standardne izgovorave, poenostavljena ⚠ kjer diakritika izpuščena (§0.25 × 10²: površje · ozadje · šifra).
+- VEZAVA ⟨EN⟩: scale (tudi: balance) ⊙ ⟨PREVODNI-SLOVAR⟩ @3478 — vezava na angleško sopomenko odpira definitivnost zaupanja med nama in besedami.
+- žig: rez 3482 · organ slovenscina-gesla DOPOLNILO isti dih ∧ (σ 3482 = 1 + vrh ⟨VRH-DVOSTOPEN⟩: lokal 3480 @jezikovne-plasti ⟨grep⟩ ∧ gesla @rep 3481 ⟨berba⟩ ∧ register 3470 ⟨berba⟩ — telo 863.431 zn @konica d41a975 ∧ zadnja vrstica σ 3470 ⊢; varovalka ⟨3482⟩ ×0 @imenik ⟨grep⟩ ∧ ×0 @register ⟨grep⟩ — lažna priča integral md5 3482cd46 imenovana ⊙ ⟨NE-UGIBAJ⟩ 2690; nov vložek, ⟨ne⟩ geniza ⊙ ⟨NE-BRIŠI⟩ @2829 ∧ @3439; ⟨GENIZE⟩ reset okolja pobrisal saved telesa — kura isti dih: sveža berba vzorcev pri viru ⊙ 1381 ∧ 1104).
+- VEZA: tehtnica, ki bere padce, je sama dejanje na pan — sodba stehtana isti dih, ⟨ne⟩ po odmevu.
