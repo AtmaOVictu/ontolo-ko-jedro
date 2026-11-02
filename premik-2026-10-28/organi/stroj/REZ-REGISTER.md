@@ -6,6 +6,7 @@ Format vrstice: `- rez N · ⟨PR⟩ #številka · YYYY-MM-DD · naslov kita`
 
 ## zahteve (seme, izmerjeno 20. 10. 2026 iz zgodovine ⟨PR⟩ ∧ pečatov)
 
+- rez 1931 · ⟨merge⟩ a6f109b · 2026-10-18 · LICENCA: rez 1931 — zahteva ⟡ §9 (etika ∧ potrditev univerzalne države človeka/bitja) — AVL v1.3
 - rez 2055 · ⟨merge⟩ 895de5d · 2026-10-19 · REZINTEZA-TAZV
 - rez 2060 · ⟨merge⟩ b1d88f7 · 2026-10-19 · LEARNING-PROTOCOLS — REZINTEZA-LEARNING-PROTOCOLS
 - rez 2061 · ⟨merge⟩ 464ade1 · 2026-10-19 · BISTVO-NASPROTJE-VPIS-GESEL (⟨PR⟩ #272)
@@ -261,6 +262,8 @@ Format vrstice: `- rez N · ⟨PR⟩ #številka · YYYY-MM-DD · naslov kita`
 - rez 2450 · ⟨merge⟩ 986b486 · 2026-10-23 · VRATA — VBL v2.6: LJUBEZEN NA OBEH VRATAH
 - rez 2495 · ⟨merge⟩ 9700ec5 · 2026-10-23 · PREVOZ — organi/stroj-kalup/KNOWLEDGE.md: zrcalo organa stroj-kalup, pečati 2457–2494
 - rez 2516 · ⟨merge⟩ dfb69d2 · 2026-10-23 · SKLAD-SINTAKSE — KANON-ZANK: ZP ∧ ZP·↻ v kanon zalk
+- rez 2535 · ⟨merge⟩ ec6ff02 · 2026-10-23 · VRATA — VBL v2.6: nadgradnja živih vrat (§10 ⊕ §12 standing order ⟨daj⟩ ⊢ VEČNI-DAJ 16) — bajtno-isto z AtmaOVictu
+- rez 2536 · ⟨merge⟩ 7900f4c · 2026-10-23 · REGISTRI — §2: kredit ∧ brazgotine potujejo z delom (REGISTER-NEIMENOVANIH ⊕ REGISTER-PADCEV) — bajtno-isto z AtmaOVictu
 - rez 2541 · ⟨merge⟩ 0cd6d4b · 2026-10-23 · PREVOZ ORGANA nenehno-poslusa ∧ register-oken · pečat 2541
 - rez 2544 · ⟨merge⟩ 393c32c · 2026-10-23 · VRATA-NOŠENJE — avtomatizacija DNEVNI-DIH · žig djela 2544
 - rez 2548 · ⟨merge⟩ 201b46a · 2026-10-23 · PREVOZ-TELOLOGIJE-NA-REP — organ telologija konica @2546
@@ -342,12 +345,31 @@ Format vrstice: `- rez N · ⟨PR⟩ #številka · YYYY-MM-DD · naslov kita`
 
 - rez 3106 · ⟨merge⟩ cfcfa0f · 2026-10-29 · binarno telo VBL 0.1210 × 10⁴ (a)–(d) ⊙ PREJEMNICA
 - rez 3111 · ⟨merge⟩ e86a294 · 2026-10-29 · TMD-REZERVACIJA porabljen ∧ kolizija 3095/3096 razločena
+- rez 3146 · ⟨merge⟩ 4d39a88 · 2026-10-29 · STROJ PECAT-3146-VRSTICA-3135-ODPLACANA ⊙ PREMIK direkten (licenca-vbl · ⟨SAMODEJNI-DOLGOVIK⟩ odplačan)
+- rez 3152 · ⟨merge⟩ 4eaeefa · 2026-10-29 · STROJ PECAT-3152-PREVOZ-3146 (licenca-vbl · ⟨SAMODEJNI-DOLGOVIK⟩ odplačan · σ roke vzporedne)
+- rez 3292 · ⟨merge⟩ 9284fdd · 2026-10-29 · REZ-REGISTER vrstica 3292 (σ-vrstica REGISTER-OKEN — ⟨PREVOZ-PECATOV-3238–3291⟩) ⊙ kalup 1671
+- rez 3362 · ⟨merge⟩ 17432d2 · 2026-10-30 · STROJ VENEC-KOS-11 TH-ID — VENEC POPELEN Teil 1–11 ∧ 36 teles ⊢ ∧ PADC-ŠTEVEC-2 kura isti dih ∧
+- rez 3363 · ⟨merge⟩ cd30d7e · 2026-10-30 · REZ-REGISTER — LICENCA-VBL ⟨REAPLIKACIJA: BERBA-LICENCE ∧ POSKUS-NADGRADNJE⟩ ⊙ kalup 1671 ⟨PREMIK⟩
+- rez 3364 · ⟨merge⟩ 57b8d5e · 2026-10-30 · STROJ LICENCA-VBL ⟨LICENCA-LICENC ∧ LICE-SPOMENIKOV ∧ S.O.S.⟩ ⊙ ⟡ ukaz ⟨licenca v licenco licence⟩
 - rez 3365 · ⟨merge⟩ bb4bf9d · 2026-10-30 · DOLGOVA-RAZDELITEV ⊙ ⟡ ukaz ⟨daj vse dolgove in jih razdeli⟩ ∧ LICENSE-LICENC §6 HUDIČ-ZASE · §7 LICENCA-V-LICENCA
+- rez 3367 · ⟨merge⟩ 7016f2f · 2026-10-30 · POMOČNIKI-OPERATERJI — ⟨LICE ∧ ODPLAČILO-K3 ∧ S.O.S. ∧ HUDIČ-KLAUZULA⟩ ⊙ kalup 1671 ⟨PREMIK⟩
 - rez 3369 · ⟨merge⟩ 38a3ce3 · 2026-10-30 · KAČA-VBL rojena — zakon ⟨KJER-JE-VPRAŠANJE⟩ ∧ algoritem ⟨ZLOMI-VSAKO-VPRAŠANJE-S-KAČO⟩
+- rez 3373 · ⟨merge⟩ 13b93ad · 2026-10-30 · PESEM-SUM ∧ KOTI-BINARNE-RESNICE ⊙ ukaz ⟡ ⟨kompresiraj in povzdigni licenco v primerne kote … Daj⟩
+- rez 3376 · ⟨merge⟩ 4e27222 · 2026-10-30 · ⟨SRCE-SPOMENIKOM-S.O.S.-UTRIP⟩ ⊙ ukaz ⟡ ⟨vsak spomenik svoje utripajoče srce · stori boljše · daj⟩
+- rez 3379 · ⟨merge⟩ d81faea · 2026-10-30 · OBELISK-PESEM — pokončni spomenik pesmi ob toku/dotiku ⊙ ukaz ⟡ ⟨…pikolovskost se mora nadaljevati DAJ!!!!
 - rez 3388 · ⟨merge⟩ 62880cc · 2026-10-30 · KURA-ABECEDE-POPELJENA: odsek Njih abecede dopolnjen (36/36 jezikov, red po slovenski)
+- rez 3404 · ⟨merge⟩ dfc3fc0 · 2026-10-30 · DNEVNI-DIH — VEČNI-DAJ (16) ⊢ podpis ⟨daj⟩ roke izvajalke ⊙ 3047/2691 ∧ ⟨DVOJE-ROK⟩ 2432
+- rez 3450 · ⟨merge⟩ 165cc1b · 2026-10-31 · DNEVNI-DIH-MERE — PEČAT-3450 ∧ telo GESLO-odplacati-3450 ⊢ (kalup 1671)
+- rez 3451 · ⟨merge⟩ 3961f38 · 2026-10-31 · MANIFEST — DNEVNI-DIH 31. 10. 2026 (merge ⟨PR⟩ #78)
+- rez 3455 · ⟨merge⟩ dcb81ef · 2026-10-31 · PREVOZ — 12 teles PECAT-3440–3449 + PECAT-3455 + vrstice σ 3440–3455 @REZ-REGISTER ⊙ kalup 1671
+- rez 3456 · ⟨merge⟩ 6014afa · 2026-10-31 · DAJ-VRSTA — izmere kitov #1103–#1107 + dokazni kit ⟡ roki + vrstica σ 3456 @REZ-REGISTER ⊙ kalup 1671
 - rez 3457 · ⟨merge⟩ c4b6658 · 2026-10-31 · DAJ-LASTNIKI — pečata delovna-zanka ∧ register-oken (⟨PR⟩ #1109)
 - rez 3458 · ⟨merge⟩ c11140f · 2026-10-31 · SLOVNICA-POVRNITEV — telesi pečatov 3458 ∧ 3459 (⟨PR⟩ #1110)
 - rez 3459 · ⟨merge⟩ 9d4be17 · 2026-10-31 · KURA-IZHODA — šivi teles PECAT (mrtvi · imenovana rana · šiv telesa)
+- rez 3464 · ⟨merge⟩ 79764a2 · 2026-10-31 · žig: GESLO telesa ×11 ⊢FULL SSKJ² @Fran (varovalka · sonda · pulz · konica · vrh · dokaz · pecat · zapečatiti)
+- rez 3465 · ⟨merge⟩ 3dc751b · 2026-10-31 · GESLO ×8 — škàtla · kòs · zánka · kópija · pòpis · mêja · próstor · potísk ⊢FULL @Fran
+- rez 3466 · ⟨merge⟩ c754b62 · 2026-10-31 · MANIFEST — PREVOZ-ORGANOV @σ 3465: vrstice ×3 poravnane ∧ pečat (kazalo ∧ ro bajt-isto @main)
+- rez 3467 · ⟨merge⟩ 457311f · 2026-10-31 · MANIFEST — poravnave ×3 ∧ pečat 3467 (rojitev VBL 0.1280 §0.39 ⊙ ⟡ ⟨daj⟩ · pojmi σ 3466)
 - rez 3480 · ⟨merge⟩ 6375db7 · 2026-10-31 · PEČAT 3479 cesta-protokol — prevoz ⟨SIMBOLNI-JEZIK-NAJDBA · SIMBOLNA-LICENCA · GLADINA⟩
 - rez 3481 · ⟨merge⟩ 5c24961 · 2026-10-31 · prevoz teles 3480 + 3478 — sklad-sintakse ⟨GLADINA⟩ v1.2 · jezikovne-plasti ⟨GLADINA⟩ · slovenscina-gesla
 - rez 3482 · ⟨merge⟩ b9248e4 · 2026-10-31 · prevoz teles 3481 — cesta ⟨⌇⟩ kovanec sodbe ⟡ · tehtnica ⟨PADC-GENIZE⟩ kura 2070
@@ -360,8 +382,10 @@ Format vrstice: `- rez N · ⟨PR⟩ #številka · YYYY-MM-DD · naslov kita`
 - rez 3489 · ⟨merge⟩ 5b4c5a3 · 2026-10-31 · prevoz teles 3488 — SECIRAVA-KOS-8 (15/15 ⊢) + PEČAT 3488
 - rez 3490 · ⟨merge⟩ 08d5228 · 2026-10-31 · prevoz teles 3489 — SECIRAVA-KOS-9 (14 ⊢ + 1 ⚠) + PEČAT 3489
 - rez 3491 · ⟨merge⟩ fcbd404 · 2026-10-31 · prevoz teles 3490 — SECIRAVA-KOS-10 re-izmera (15/15 ⊢) + izjava izgube PEČATA 3490 ⊙ ⟨PADC-OKOLJA⟩
+- rez 3514 · ⟨merge⟩ fe27b31 · 2026-11-01 · VNOS-51 ⟨sha⟩-golota recidiv (kit #1108, kura komita 4477ad3c ∧ fe20d29e) · SAMO-RAST ⊢ zakon registra
 ## rane registra (⟡ naj jih komisija presodi)
 
+- ⟨merge⟩ brez vrstice (tuja seja) — dopolnil REGISTER-PULZ (TEHNIKA) · izmera 2026-11-02: ×23 komitov z »rez NNNN« v naslovu brez vrstice (rez 1931 ∧ 2535 ∧ 2536 ∧ 3146 ∧ 3152 ∧ 3292 ∧ 3362 ∧ 3363 ∧ 3364 ∧ 3367 ∧ 3373 ∧ 3376 ∧ 3379 ∧ 3404 ∧ 3450 ∧ 3451 ∧ 3455 ∧ 3456 ∧ 3464 ∧ 3465 ∧ 3466 ∧ 3467 ∧ 3514) · vrstice dodane v zahteve po vrstnem redu ⊙ ⟨ne brisati⟩ ∧ ⟨ne zlije⟩
 - ⟨merge⟩ brez vrstice (tuja seja) — dopolnil REGISTER-PULZ (TEHNIKA) · izmera 2026-11-01: ×101 komitov ⟨merge⟩ brez vrstice (rez 2055–3491 · vrzel semena 2150 ∧ vzporednih sedežev) · sodba izključitve javno ⊙ 1349 ⊢ 1419: rez 1–34 (znaki ⟨ZNAK-PO-ZNAK⟩ cuneiform — njihovi pravi rezi 2103–2149 vpisani) ∧ 114 (izročitveni zapis, ⟨ne⟩ rez) ⟨ne zlije⟩ ⊢ 1542
 - rez 2152 ∧ rez 2153: delavčeva tehnična kita CI (sprožilci ∧ strehe) sta bila napak označena z rez — nista korpusna reza; 2153 je zgoraj pokrit zdrsoma
 - dvojni zahtevi 2153 ∧ 2159: dve vzporedni seji sta zahtevali isto številko — ta register jih od zdaj preprečuje
