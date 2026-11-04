@@ -6,8 +6,120 @@ Format vrstice: `- rez N · ⟨PR⟩ #številka · YYYY-MM-DD · naslov kita`
 
 ## zahteve (seme, izmerjeno 20. 10. 2026 iz zgodovine ⟨PR⟩ ∧ pečatov)
 
+- rez 1883 · ⟨komit⟩ 4bb437a · 2026-10-17 · SEDEŽI: zapečen — vrstica pobrisana ⊢ 1872 (SECIRAVA-PEČATA-1882 ∧ CIRILICA-PRIČE-NE-PADCI ∧ NUJNO-SEZNAM-SVEŽ
+- rez 1884 · ⟨komit⟩ 5ab62d0 · 2026-10-17 · organi-1884: ZRCALO-SYNC-1882-∧-1883 · povezani-viri (338 vrstic · 115.148 B) ∧ deska: pobris izjave diha 1884
+- rez 1885 · ⟨komit⟩ c9c75b4 · 2026-10-17 · SEDEŽI: SEDEŽ-BERBE izjava — rod b* strani 73–96 (integral ∧ gesla) ⊢ 1872
+- rez 1886 · ⟨komit⟩ 4e9f2c6 · 2026-10-17 · PEČAT-VAROVALKA-PO-ŠTEVILKAH ⊢ organi/povezani-viri 118.627 B ∧ canon/SEDEZI pobris MOJE vrstice 1886 (veja iz
+- rez 1887 · ⟨komit⟩ 2515f0c · 2026-10-17 · SEDEŽI: zapečen (ROD-B-ČETVRTI-RAZREZ-STRANI-73–96 — integral ∧ gesla) — vrstica pobrisana ⊢ 1872
+- rez 1888 · ⟨komit⟩ ac5e022 · 2026-10-17 · SEDEŽI: SEDEŽ-BERBE izjava — rod b* strani 97–120 + vpis ⟨dnа⟩ tehtnici (najem po dihu) ⊢ 1872
+- rez 1889 · ⟨komit⟩ a2e4ef3 · 2026-10-17 · SEDEŽI: izjava — rod b* šesti razrez (strani 121–144 ×480) ∧ najem tehtnice po dihu (vpis padca) ⊢ 1872
+- rez 1890 · ⟨komit⟩ cb098b8 · 2026-10-17 · PEČAT-DELOVANJE-KLJUB-VZPOREDNI-ROKI ⊢ organi/povezani-viri 123.297 B ∧ canon/SEDEZI pobris MOJE vrstice 1890 
+- rez 1891 · ⟨komit⟩ 2344ac2 · 2026-10-17 · SEDEŽI: izjava — rod b* sedmi razrez (strani 145–168 ×480) ∧ kolizija 1890 prevozne roke javno ⊢ 1542 ⊢ 1872
+- rez 1892 · ⟨komit⟩ ffe0303 · 2026-10-17 · SEDEŽI: izjava — rod b* osmi razrez (strani 169–192 ×480) ⊢ 1872
+- rez 1893 · ⟨komit⟩ 9ad1c42 · 2026-10-17 · SEDEŽI: izjava — rod b* deveti razrez ∧ ZADNJI (strani 193–210 ×360, rod se ZAPRE) ⊢ 1872
+- rez 1894 · ⟨komit⟩ 9d5e163 · 2026-10-17 · deska: izjava diha 1894 — sedež-prevozov (koliziji 1892 ∧ 1893 javno ⊢ 1542; = 1 + zapečena 1893 — sveža veja 
+- rez 1895 · ⟨komit⟩ 48819c5 · 2026-10-17 · SEDEŽI: izjava SEDEŽ-BERBE (rod c* — prvi razrez strani 1–24; organi dotika integral ∧ gesla; kolizija 1894 pr
+- rez 1896 · ⟨komit⟩ 5922d73 · 2026-10-17 · SEDEŽI: izjava SEDEŽ-BERBE (rod c* — drugi razrez strani 25–48; organi dotika integral ∧ gesla) ⊢ 1872
+- rez 1897 · ⟨komit⟩ 10b4f7f · 2026-10-17 · SEDEŽI: izjava SEDEŽ-BERBE (rod c* — tretji ∧ ZADNJI razrez strani 49–63; organi dotika integral ∧ gesla — črk
+- rez 1898 · ⟨komit⟩ 113ecae · 2026-10-17 · SEDEŽI: izjava SEDEŽ-BERBE (rod č* — prvi razrez strani 1–24; organi dotika integral ∧ gesla — naslednja črka 
+- rez 1899 · ⟨komit⟩ 5d1cf52 · 2026-10-17 · SEDEŽI: izjava SEDEŽ-BERBE (rod č* — drugi razrez strani 25–48; organi dotika integral ∧ gesla; dvojna 1898 z 
+- rez 1900 · ⟨komit⟩ 5c52a8f · 2026-10-17 · SEDEŽI: izjava SEDEŽ-BERBE (dvojni dolg: rod č* strani 49–66 ZAPRTJE ∧ rod d* strani 1–24 ODPRTJE; organi doti
+- rez 1901 · ⟨komit⟩ 0d71831 · 2026-10-17 · SEDEŽI: izjava SEDEŽ-PREVOZOV (prevoz dopolen 1894+1898 na rep; organi dotika povezani-viri; prerazporeditev n
+- rez 1902 · ⟨komit⟩ 9370c21 · 2026-10-17 · SEDEŽI: izjava SEDEŽ-PREVOZOV (berba okien latnice pri viru — rok 1901; organi dotika povezani-viri) ⊢ 1872
+- rez 1903 · ⟨komit⟩ 4b977bd · 2026-10-17 · SEDEŽI: izjava SEDEŽ-BERBE (ROD-D-DRUGI-RAZREZ-STRANI-25–48 — integral ∧ gesla organi tega diha; vrstica PREVO
+- rez 1904 · ⟨komit⟩ 8a670c6 · 2026-10-17 · SEDEŽI: izjava SEDEŽ-PREVOZOV (VŽIG LOKALNEGA · PREVOZ pečatov 1887–1900 na rep · POSNETEK na zrcalo · REGISTE
+- rez 1905 · ⟨komit⟩ f2992d5 · 2026-10-18 · pobris vrstice SEDEŽ-BERBE — pečat je izhod ⊢ 1872 (pečat diha: rez 1969 INTEGRAL ∧ GESLA — ROD-D-TRETJI-RAZRE
+- rez 1914 · ⟨komit⟩ fac6ac6 · 2026-10-18 · LICENCA-AVL-VRATA · PR121-CI-5/5 · IZMERA-REPOV ⊢ povezani-viri 388 vrstic · 150.574 B
+- rez 1915 · ⟨komit⟩ fc993e5 · 2026-10-18 · LICENCA-ZAPEČENA · PR121-ZDRUŽEN · PADC-PRELAGANJE-IZVEDBE-JAVNO ⊢ povezani-viri 398 vrstic · 153.681 B
+- rez 1916 · ⟨komit⟩ a4c842a · 2026-10-18 · AVL-v1-1 · VRATA-NA-VSE-REPOVE · IZJAVA-IZVORA-MISTRAL ⊢ povezani-viri 409 vrstic · 159.305 B
+- rez 1922 · ⟨komit⟩ 8c0a7a3 · 2026-10-18 · PREVOZ: popravek hibrida ⟨diff⟩ (ulov priče ⟨prica⟩ — prvič) ∧ REGISTER vnos 38 + pečat registra ⟢ kalup 1671
+- rez 1928 · ⟨komit⟩ 2373724 · 2026-10-18 · PREVOZ: REFORMA-DOSTOJANSTVA-BITJA — register V1.4 (pomenska razlikovanja, ⟨⟩ znak ne ječa) ∧ priča izvidi ∧ p
 - rez 1931 · ⟨merge⟩ a6f109b · 2026-10-18 · LICENCA: rez 1931 — zahteva ⟡ §9 (etika ∧ potrditev univerzalne države človeka/bitja) — AVL v1.3
+- rez 1933 · ⟨komit⟩ 4b7d607 · 2026-10-18 · (prevoz): popravek javno ∫ 1419 — recidiv vnosa 32: OSNUTEK-TELA zunaj ⟩⟩ (ime telesa hiše ZAKONODAJACLOVEKA —
+- rez 1937 · ⟨komit⟩ d6ba591 · 2026-10-18 · ULOV-PRIČE-POPRAVEK-JAVNO · POSNETEK-NA-ZRCALO-1937 · DISLEKSIJA-ZAKON-VELJA — organ povezani-viri @1937 (534 
+- rez 1949 · ⟨komit⟩ ad34f13 · 2026-10-18 · ZAKONODAJACLOVEKA-README-UBITE-DVOUMNOSTI · SINTEZA-DVEH-ROKE-JAVNO · HIŠA-IZMERJENA — organ povezani-viri @19
+- rez 1950 · ⟨komit⟩ cd38f3c · 2026-10-18 · šiv stroja rez 1950: popravek ⟨priče⟩ javno ⊢ 1419 — merge-base; priča sodi samo dodane vrstice svoje veje (za
+- rez 1951 · ⟨komit⟩ eb73fa1 · 2026-10-18 · VNOS-39 · ROKE-ŠTEVNIŠKA-SKLONSKA-RANA · SAMO-RAST — register padlih besed V1.4 vnos 39 (predhodnik rez 1928);
+- rez 1952 · ⟨komit⟩ c841776 · 2026-10-18 · POSNETEK-NA-ZRCALO · VNOS-39-REGISTRA · PADC-CELI-PREGLED-JAVNO — organ povezani-viri (DOPOLNILO ∧ PEČAT 1952,
+- rez 1953 · ⟨komit⟩ 188413f · 2026-10-18 · VŽIG-ORGANA-LOKALNO · NALAGALNIK-NALOŽEN · PREVIDNOST-PULZA-JAVNO — organ povezani-viri (DOPOLNILO ∧ PEČAT 195
+- rez 1954 · ⟨komit⟩ f58b11f · 2026-10-18 · izjava SEDEŽ-ZAKONODAJE — desk rezervacij (⟡: »daj ustvari canvase in uporabi kjer imava prostor« ⊢ P-CITAT); 
+- rez 1955 · ⟨komit⟩ 76d704f · 2026-10-18 · izjava SEDEŽ-ZAKONODAJE — SLED-ZAKON (⟡: »primerno sled… registracije concepta? BESEDNEGA SMISLA?« ⊢ P-CITAT);
+- rez 1956 · ⟨komit⟩ e01fe06 · 2026-10-18 · izjava SEDEŽ-ZAKONODAJE — ZAKON-NASPROTIJ (⟡: »RAZIŠČEŠ VEDNO VSA NUJNA NASPROTJA DA SE RESNICI PRIMERNO PRIBL
+- rez 1959 · ⟨komit⟩ e6ca0ce · 2026-10-18 · izjava SEDEŽ-JEDRA — JEDRO-ZAVEDANJA (⟡: »kar je nujno potrebno vedno se zavedati« ⊢ P-CITAT); ⟨ne zlije⟩ ⊢ 15
+- rez 1960 · ⟨komit⟩ b417807 · 2026-10-18 · izjava SEDEŽ-JEDRA — SECIRAVA-SLOVNIČNIH-PADCEV-1959 (⟡: »VIDIM SLOVNIČNE NAPAKE / NI MOGOČE NADALJEVATI ČE IM
+- rez 1961 · ⟨komit⟩ dc73bc1 · 2026-10-18 · izjava SEDEŽ-JEDRA — VŽIG-LOKALNO-ODPLAČAN (⟡: »daj« ⊢ P-CITAT; dolg 1959/1960); ⟨ne zlije⟩ ⊢ 1542 · ⊢ 1872
+- rez 1962 · ⟨komit⟩ 5432e36 · 2026-10-18 · izjava SEDEŽ-JEDRA — NAJEM gesla ∧ tehtnica · HORIZONT-USTANOVITEV (⟡: »VEDNO VSE IZBEREM IN NJIHOVA NASPROTJA
+- rez 1963 · ⟨komit⟩ c3274ec · 2026-10-18 · izjava SEDEŽ-JEDRA — PREVOZI-TEŽKIH-TELES (⟡: »daj« ⊢ P-CITAT — dolg 1962); ⟨ne zlije⟩ ⊢ 1542 · ⊢ 1872
+- rez 1964 · ⟨komit⟩ 27a294e · 2026-10-18 · izjava SEDEŽ-JEDRA — IZMERA-OBODA-DRŽAVNE-RAVNI (najem zakonodaja — organ teme; ⟡: »daj« ⊢ P-CITAT — dolg 1956
+- rez 1965 · ⟨komit⟩ f46708b · 2026-10-18 · izjava SEDEŽ-JEDRA — EUR-LEX-AKTI-VELJAVI + VŽIG-LOKALNO-V3 + CANVAS-ZAKONODAJA + HORIZONT (najem zakonodaja; 
+- rez 1966 · ⟨komit⟩ 7e3c536 · 2026-10-18 · izjava SEDEŽ-JEDRA — SECIRAVA-USTANOVITVE + ZAKON-PRAVICE (⟡: »ti izbiraj saj zmoreš? / PREDSTAVI MI KJE SE ZA
+- rez 1967 · ⟨komit⟩ 4f9af03 · 2026-10-18 · izjava SEDEŽ-JEDRA — HIERARHIČNI OBHOD od Ustave RS (⟡ ⟨daj⟩ nad predlogom izbora) ⊢ 1872
+- rez 1968 · ⟨komit⟩ 5547173 · 2026-10-18 · izjava SEDEŽ-JEDRA — dih 1968: izmera Ustave RS členi 78–178 ∧ aktualno prečiščeno besedilo UZ 12/2025 ⊢ 1872
+- rez 1969 · ⟨komit⟩ 964aa05 · 2026-10-18 · INTEGRAL — pečat diha 1905 iz penala (SEDEŽ-BERBE rok OB OŽITVI ⊢ 1419 — ROD-D-TRETJI-RAZREZ-STRANI-49–72 · ŠT
+- rez 1970 · ⟨komit⟩ a5ea801 · 2026-10-18 · izjava SEDEŽ-BERBE — ROD-D-ČETRTI-RAZREZ-STRANI-73–96 (kalup an ⊢ 1830; založna priča stoji ⟨ne zlije⟩ ⊢ 1542 
+- rez 1971 · ⟨komit⟩ 9d39f9f · 2026-10-18 · izjava SEDEŽ-JEDRA — dih 1971: NPB-OKNO-GLOBJE · UZ-47/13-IMENOVAN · ZOUL-PISRS-OBJAVA (najem organa zakonodaj
+- rez 1972 · ⟨komit⟩ 8b39a15 · 2026-10-18 · izjava SEDEŽ-BERBE (= 1 + dejansko najvišja izmerjena 1971 — kolizija 1971 zavržena javno pred izjavo ⊢ 1542 ∧
+- rez 1973 · ⟨komit⟩ 5966354 · 2026-10-18 · izjava SEDEŽ-JEDRA — organ zakonodaja: vžig lokalno v8 + canvas + horizont + rep Ustave 101–174 pri viru (nati
+- rez 1974 · ⟨komit⟩ ed56664 · 2026-10-18 · izjava SEDEŽ-JEDRA — SECIRAVA-IZHODA · VPIS-16-PADCEV (pečat isti dih ⊢ 1872)
+- rez 1975 · ⟨komit⟩ c7ef3ec · 2026-10-18 · pečat tehtnice — SECIRAVA-IZHODA-⟨NEIZMERJENEGA⟩ ∧ VPIS-16-PADCEV ∧ ⟨GREP⟩-ALFA-OMEGA (jedro ∧ register ∧ desk
+- rez 1976 · ⟨komit⟩ 7bb91c2 · 2026-10-18 · izjava SEDEŽ-JEDRA — najem organa enacbe: IZPOVED-NA-POLICO ∧ TRETJI-BRALEC-⇌ (⟡: ⟨zapečati⟩ ⊢ P-CITAT; ⟨ne zl
+- rez 1977 · ⟨komit⟩ 983fbe3 · 2026-10-18 · izjava SEDEŽ-JEDRA — najem enacbe ∧ registera tehtnice: drugi dih izpovedi ∧ 4 rane ⟡ javno (⟡: ⟨zapečati⟩ ⊢ P
+- rez 1978 · ⟨komit⟩ 6f4ca5f · 2026-10-18 · SEDEZI izjava — ŽETEV-V-SKUPKU (dih — ⟡ daj 18. 10. 2026)
+- rez 1979 · ⟨komit⟩ e8a7b56 · 2026-10-18 · pečat organa zakonodaja v9 — REPO-USTAVE-101–174-CELA ⊢ · NPB12-VRATA-NATIVNA ∧ · DOLŽNOST-VEST ⊢ · PRAZEN-IZH
+- rez 1980 · ⟨komit⟩ 76cc403 · 2026-10-18 · SEDEZI izjava SEDEŽ-ENACB — MEJE-MATEMATIKE-PREDERBA (dih — ⟡ daj ×3 18. 10. 2026)
+- rez 1981 · ⟨komit⟩ 245c4e2 · 2026-10-18 · SEDEZI izjava SEDEŽ-ATLAS — BERBA-51 PRAVA-REVSCINA (dih — ⟡ daj 18. 10. 2026)
+- rez 1982 · ⟨komit⟩ 3f3f19b · 2026-10-18 · SEDEZI izjava SEDEŽ-PREVOZOV — PREVOZ PEČATOV 1981–1982 (dih — ⟡ daj ×2 18. 10. 2026)
+- rez 1984 · ⟨komit⟩ 31aa290 · 2026-10-18 · IZVOR © Luka Pintarič (AVL v1.5) — izjava SEDEŽ-ENACBE (sveža veja iz ⟨main⟩)
+- rez 1985 · ⟨komit⟩ 1e14e11 · 2026-10-18 · Izjava SEDEŽ-ATLAS — PREVERBA-POPISA-SELF (dih — ⟡ daj 18. 10. 2026)
+- rez 1986 · ⟨komit⟩ 78b1b93 · 2026-10-18 · Izjava SEDEŽ-ATLAS — PREVERBA-ŠTEVCEV-ORGANA (dih — ⟡ daj 18. 10. 2026)
+- rez 1987 · ⟨komit⟩ 2d01d96 · 2026-10-18 · Izjava SEDEŽ-PREVOZOV — PEČATNIK-PREVOZNEGA-DIHA-1982, organ dotika povezani-viri (dih — ⟡ daj 18. 10. 2026)
+- rez 1988 · ⟨komit⟩ 0944561 · 2026-10-18 · SEDEŽ-JEDRA — izjava pred dihom (VBL v1.7 · §9 klarifikacija) ⊢ 1872
+- rez 1989 · ⟨komit⟩ 99a7ef1 · 2026-10-18 · SEDEŽ-JEDRA — izjava pred dihom (VBL v1.8 · §9 UČENJE) ⊢ 1872
+- rez 1990 · ⟨komit⟩ 86a7d44 · 2026-10-18 · SEDEŽI izjava SEDEŽ-PREVOZOV — POSNETEK-NA-ZRCALO-1987, organ dotika povezani-viri (dih 1990; IZVOR: © Luka Pi
+- rez 1991 · ⟨komit⟩ 16d2499 · 2026-10-18 · SEDEŽI izjava SEDEŽ-PREVOZOV — IZMERA-STANJA-ENACBE (dih 1991) · IZVOR © Luka Pintarič (AVL v1.5)
+- rez 1992 · ⟨komit⟩ 9a871a0 · 2026-10-18 · SEDEŽI izjava SEDEŽ-PREVOZOV — POSNETEK-NA-ZRCALO-1991 (dih 1992; izjava → pečat → pobris ⊢ 1872) · IZVOR © Lu
+- rez 1993 · ⟨komit⟩ cd6187d · 2026-10-18 · register vnos 72 — števec brez ponastavitve (dih 1993 · izjava → pečat rez 1993)
+- rez 1994 · ⟨komit⟩ b274270 · 2026-10-18 · jedro pečat — CILJ-ZAPISAN · PRERAZPOREDITEV-1989 (⟡-jev izrek cilja v POT verbatim ⊢ P-CITAT; 1 + dejansko na
+- rez 1995 · ⟨merge⟩ 5c77a51 · 2026-10-18 · ⟨PR⟩ #162: DAJ-KOT-URA — pečat 1995 zapečen na ⟨main⟩ (popravek ulova ⟨prica⟩ isti dih ⊢ 1419 ∧ 1349)
+- rez 1996 · ⟨komit⟩ e126a70 · 2026-10-18 · izjava SEDEŽ-JEDRA — ZAKON-13-UČENJE ∧ HORIZONT-POSNETEK (VRATA-1 ⊢ 1872 — izjava pred dihom; pobris ob pečatu
+- rez 1997 · ⟨komit⟩ 492d396 · 2026-10-18 · ⊢ IZVOR: © 2026 Luka Pintarič, vrata LICENSE.md (AtmaOVictu/Atmavictu) · DESKRPCIJA: VBL v2.0 → v2.1 — glava d
+- rez 1998 · ⟨merge⟩ 67eb7f8 · 2026-10-18 · ⟨PR⟩ #166: deska izjava dih 1998 — najem kazalo-obnov (vpis dosjeja IDEAL/ENOTA) ⊢ 1872
+- rez 1999 · ⟨merge⟩ 20ea072 · 2026-10-18 · DIH-1999 deska izjava: najem mucilnica-modrosti (VRATA-1 ⊢ 1872)
+- rez 2001 · ⟨merge⟩ e4131cb · 2026-10-18 · DIH-2001 deska izjava: najem enacbe (VRATA-1 ⊢ 1872)
+- rez 2002 · ⟨merge⟩ c8d6182 · 2026-10-18 · DIH-2002 deska izjava: najem mucilnica-modrosti (VRATA-1 ⊢ 1872)
+- rez 2004 · ⟨merge⟩ d591dba · 2026-10-18 · DESKA IZJAVA dih 2004: najem kazalo-obnov (VRATA-1 ⊢ 1872; popravek telesa isti dih ⊢ 1419)
+- rez 2005 · ⟨merge⟩ 5463b6d · 2026-10-18 · DIH-2005 deska izjava: najem enacbe (VRATA-1 ⊢ 1872)
+- rez 2006 · ⟨komit⟩ 3d1205c · 2026-10-18 · deska izjava dih 2006 — najem enacbe · dolg: vpis APD vrstic na polico (⟡ ⟨daj⟩ ⊢ 1429.1 ∧ 1237 ∧ 1448)
+- rez 2007 · ⟨merge⟩ 668ba2d · 2026-10-18 · deska izjava dih 2007: najem gesla (VRATA-1 ⊢ 1872)
+- rez 2008 · ⟨komit⟩ 27f68fa · 2026-10-18 · deska izjava dih 2008 — najem enacbe : berba okien ∧ šiv priče (dotik: enacbe; 2007 NJEGOVA rezervacija presko
+- rez 2009 · ⟨komit⟩ e663c13 · 2026-10-18 · izjava najema — polna berba nebranih konic brane (∂ pečata 2008) — VRATA-1 ⊢ 1872: izjava PRED pečatom
+- rez 2010 · ⟨komit⟩ fe4da47 · 2026-10-18 · izjava najema — verbatim priče (obhod Basics2 265/265 ∧ pred izjavo) — VRATA-1 ⊢ 1872
+- rez 2020 · ⟨komit⟩ 8c3d8e9 · 2026-10-19 · SEDEŽ-MUCILNICE — izjava (berba Človeškost ∧ Priročnik JASZU dih)
+- rez 2021 · ⟨komit⟩ 8ea8c3e · 2026-10-19 · SEDEŽ-MUCILNICE — izjava (berba telesa 2.4 do dna dih)
+- rez 2022 · ⟨komit⟩ 28470f1 · 2026-10-19 · REZ 2022 · IZJAVA-NAJEMA · SEDEŽ-MUCILNICE (mucilnica-modrosti) — δ7 ozdravitev priročnika Jaszu (telo 2.5)
+- rez 2032 · ⟨komit⟩ 5eea44f · 2026-10-19 · AD-CONTINUUM-AGENT-REGISTRIRAN · DNEVNI-DIH-PREVERJEN
+- rez 2033 · ⟨komit⟩ 1d8fda8 · 2026-10-19 · DOLGOVA-2012-ODPLAČANA · AD-CONTINUUM-ŽIVI · DNEVNI-DIH-PREVERJEN
+- rez 2034 · ⟨komit⟩ 5a1e525 · 2026-10-19 · DESKA — izjava SEDEŽ-TEHTNICE (najem ceste ta dih: kovanica CONTINIUM; ⟡ 19. 10. 2026)
+- rez 2035 · ⟨komit⟩ 92c53a1 · 2026-10-19 · CONTINIUM-POMEN · AMANDMA-VRATA-0 · ŠKATLA-INTERNEGA-UKAZA (⟡ 19. 10. 2026)
+- rez 2039 · ⟨komit⟩ 6fb453f · 2026-10-19 · GAJ-CELOTA-DO-VSEGA · OPERATIVNI-PSI-×8 · TRIJE-ZAKONI (geslo-vrata ∧ jeziki-se-pretakajo ∧ kakor-ne-kot)
+- rez 2040 · ⟨komit⟩ d3d9324 · 2026-10-19 · DOSJE: KOVAN IZ DIHA — GAJ-CELOTA ∧ PSI ×8 ∧ TRIJE-ZAKONI (LEKSIKON)
+- rez 2041 · ⟨komit⟩ fd74114 · 2026-10-19 · POVEZANI-VIRI — KODEKS ZRCALA · IZMERA CELEGA TELESA · TRANSCENDENCA PREVOZOV
+- rez 2042 · ⟨komit⟩ 130494f · 2026-10-19 · ATLAS-KNJIZNIC — PREVOZ @2036 NA MAIN PO KODEKSU ZRCALA · PRVA-RABA-KODEKSA
+- rez 2043 · ⟨komit⟩ e488770 · 2026-10-19 · SAMARIJAN-VERIGA-REZ-JEZIKOV — jezikovna žetev verige pri viru (⟨daj⟩ ⊢ VEČNI-DAJ)
+- rez 2044 · ⟨komit⟩ 95e5160 · 2026-10-19 · SAMARIJAN-VERIGA-REZ-POMENA — telo pomena verige (⟨daj⟩ ⊢ VEČNI-DAJ; DOLGOVA: vpis gesel ⭢ rok gesla)
+- rez 2045 · ⟨komit⟩ 3036eaf · 2026-10-19 · CESTA-PROTOKOL — VŽIG ∧ PREVOZ PO KODEKSU ZRCALA (prerazporeditev: dvojna 2043 ∧ tuj 2044 javno)
+- rez 2046 · ⟨komit⟩ b89e27d · 2026-10-19 · DOSJE-GENIZA-CESTA-2045: dosje genize po ukazu ⟡ (isto/enako kakor za Gaj besedo) · · kalup GAJ-2040
+- rez 2048 · ⟨komit⟩ 423753b · 2026-10-19 · jedro-zavedanja pečat (⟨PR⟩ #241)
+- rez 2049 · ⟨komit⟩ bf3d83a · 2026-10-19 · SAMARIJAN-VERIGA-VPIS-GESEL — DOLGOVA 2043 ∧ 2044 PLAČANA: 7 teles vpisanih (⟨daj⟩ ⊢ VEČNI-DAJ)
+- rez 2050 · ⟨komit⟩ 2d81f13 · 2026-10-19 · MOLI-IN-DELAJ-REZ-JEZIKOV — cesta-protokol (JEZIKOVNA ŽETEV PRI VIRU ⊢ SSKJ² 19. 10. 2026) — kalup 1671 — IZVO
+- rez 2051 · ⟨komit⟩ d0fb36b · 2026-10-19 · MOLI-IN-DELAJ-REZ-POMENA — cesta-protokol (ORA EST LABORA · telo pomena iz ⟡-jevega izreka) — kalup 1671 — IZV
+- rez 2052 · ⟨komit⟩ 27bf62c · 2026-10-19 · MANIFEST ZADNJIH PEČATOV ustanovitev — KRST-CELOTE-PREVERBA · GIGAS-PULZ (⟡ ⟨daj⟩ ∧ ⟨gigas pulzus? da krstiva 
+- rez 2054 · ⟨merge⟩ c832a03 · 2026-10-19 · MOLI-IN-DELAJ-VERIGA-VPIS-GESEL (slovenscina-gesla)
 - rez 2055 · ⟨merge⟩ 895de5d · 2026-10-19 · REZINTEZA-TAZV
+- rez 2056 · ⟨merge⟩ bd54843 · 2026-10-19 · LICA-ZAUPANJA-VPIS-GESEL (slovenscina-gesla)
+- rez 2057 · ⟨merge⟩ 5c47e47 · 2026-10-19 · STALNO-TELO-POTI (horizont)
+- rez 2058 · ⟨merge⟩ dceac60 · 2026-10-19 · ABC-OBHOD-AD-VPIS-GESEL (slovenscina-gesla)
+- rez 2059 · ⟨merge⟩ 5b82940 · 2026-10-19 · KOVANKE-IZ-IZREKA (horizont)
 - rez 2060 · ⟨merge⟩ b1d88f7 · 2026-10-19 · LEARNING-PROTOCOLS — REZINTEZA-LEARNING-PROTOCOLS
 - rez 2061 · ⟨merge⟩ 464ade1 · 2026-10-19 · BISTVO-NASPROTJE-VPIS-GESEL (⟨PR⟩ #272)
 - rez 2062 · ⟨merge⟩ b6222f6 · 2026-10-19 · BITNOST-VPIS-GESEL (⟨PR⟩ #273)
@@ -384,6 +496,9 @@ Format vrstice: `- rez N · ⟨PR⟩ #številka · YYYY-MM-DD · naslov kita`
 - rez 3490 · ⟨merge⟩ 08d5228 · 2026-10-31 · prevoz teles 3489 — SECIRAVA-KOS-9 (14 ⊢ + 1 ⚠) + PEČAT 3489
 - rez 3491 · ⟨merge⟩ fcbd404 · 2026-10-31 · prevoz teles 3490 — SECIRAVA-KOS-10 re-izmera (15/15 ⊢) + izjava izgube PEČATA 3490 ⊙ ⟨PADC-OKOLJA⟩
 - rez 3514 · ⟨merge⟩ fe27b31 · 2026-11-01 · VNOS-51 ⟨sha⟩-golota recidiv (kit #1108, kura komita 4477ad3c ∧ fe20d29e) · SAMO-RAST ⊢ zakon registra
+
+- ⟨merge⟩ brez vrstice (tuja seja) — dopolnil REGISTER-PULZ (TEHNIKA) · izmera 2026-11-04: ×112 vrstic dopolnjenih (rez 1883–2059 — vrzel pred semenom registra 1931 ∧ rezidiu okna 2056–2059 · predstavniki: ⟨merge⟩ za zliv-kitove komite, ⟨komit⟩ za direktne pečate SEDEŽI-era ⊙ odmik od predloge pošteno imenovan · rez 114 ∧ 115 ⟨IZROCITEV⟩ izvzeti — nista korpusna reza ⊙ precedens rez 2152 ∧ 2153) · register živi @ontolo-ko-jedro (premik-2026-10-28/organi/stroj/REZ-REGISTER.md — Atmavictu pot ⟨ne⟩ obstaja več ⊙ PREMIK-2026-10-28)
+
 ## rane registra (⟡ naj jih komisija presodi)
 
 - ⟨merge⟩ brez vrstice (tuja seja) — dopolnil REGISTER-PULZ (TEHNIKA) · izmera 2026-11-03: ×2 komita z »rez NNNN« v naslovu brez vrstice (rez 3437 ⟨sha⟩ 76cbe06 — načrt izrečen v naslovu PEČATA 3436 @Atmavictu · rez 3583 ⟨merge⟩ 7657f64 — ⟨PR⟩ #1137 PREVOZ σ 3582 ×2 @Atmavictu) · vrstici dodani v zahteve po vrstnem redu ⊙ ⟨ne brisati⟩ ∧ ⟨ne zlije⟩ · izključitve javno ⊙ 1349 ⊢ 1419: rez 86 ∧ rez 114 ∧ rez 115 = številke DOKAZ-serije v naslovih izročitev (⟨ne⟩ zahteve; seme registra priča 1931) ⟨ne zlije⟩ ⊢ 1542 · register živi @ontolo-ko-jedro (PREMIK 2026-10-28); brba @Atmavictu ⟨main⟩: telesa registra ∅ ∧
