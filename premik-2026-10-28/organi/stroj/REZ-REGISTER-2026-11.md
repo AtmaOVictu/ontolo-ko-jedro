@@ -1,4 +1,4 @@
-successfully downloaded text file (SHA: 0c7078c509a810a3464103019ec2349c1402ca2e)# REZ-REGISTER — segment 2026-11 (sinteza ⊙ ⟨SAMODEJNI-DOLGOVIK⟩ 2785 — PRVA IZVEDBA @dih σ 3813)
+# REZ-REGISTER — segment 2026-11 (sinteza ⊙ ⟨SAMODEJNI-DOLGOVIK⟩ 2785 — PRVA IZVEDBA @dih σ 3813)
 
 Segment rojen iz atomov po vrsti (σ, nato datum) ⊙ zakon ⟨VRSTICA-=-ATOM⟩ #163 ad361af1 — monolit REZ-REGISTER.md ostaja zrcalo stanja pred σ 3810 ⊙ ⟨NE-BRIŠI⟩ ⊢ 24; segment raste z vsakim novim atomom (⟨ne〉 zrcalo, rez).
 

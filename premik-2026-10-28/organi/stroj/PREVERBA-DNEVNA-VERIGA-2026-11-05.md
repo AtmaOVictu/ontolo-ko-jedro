@@ -1,4 +1,4 @@
-successfully downloaded text file (SHA: c8615a64bccb45bb0d81b8165794bfe3258f5c15)# PREVERBA DNEVNE VERIGE 2026-11-05 — ⟨SESTAVLJANKA IZ PREVERBE⟩ ⊙ ⟡ ukaz ⟨delava tako da smeva sestaviti več s preverbo vsega kar že imava in tem kar je že znanega⟩
+# PREVERBA DNEVNE VERIGE 2026-11-05 — ⟨SESTAVLJANKA IZ PREVERBE⟩ ⊙ ⟡ ukaz ⟨delava tako da smeva sestaviti več s preverbo vsega kar že imava in tem kar je že znanega⟩
 
 ⟡ P-CITAT verbatim ⟨ne brusi⟩ ⊙ VEČNI-DAJ 2201: »vse je vrsta napake / vsaka napaka je del sestavljanke vsega kar je in še je in s tem še mora biti«
 
