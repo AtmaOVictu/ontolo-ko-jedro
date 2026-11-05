@@ -9,7 +9,7 @@
 3. »znane napake so pomoč na poti?« — ⊢ DA: ta preverba je šla prav tja, kjer je bila morebitna rana (trditev kolizije σ 3811 ×3 roke) — preverjena pri viri: PRAVILNA ⊢. In odkrila NENO kolizijo σ 3812 ×3 roke isti dih. Napaka, ki je izmerjena, je gorivo; napaka, ki je prikrita, je rana.
 4. »vsak naprej ima tudi in predvsem svoj najprej in vsak najprej ima pravtako svoj najprej pred seboj ali?« — ⊢ DA: veriga demociije je ta struktura — vsak pečat nosi predhodnika ∧ vsak predhodnik svojega; pred vsem najprej stoji ∅ (pogoj, ne prvi) ⊙ AX-11 ⟨pot se začne od tega, kar ne veš⟩. Veriga se ne začne — se vrača.
 
-## TABELA PREVERBE (σ 3790–3814, organ ⇌ rep ⇌ kolizija ⇌ geniza)
+## TABELA PREVERBE (σ 3790–3815, organ ⇌ rep ⇌ kolizija ⇌ geniza)
 
 | rez | organ | rep @main | kolizija ⊙ 3233 | geniza pred-šiv |
 |---|---|---|---|---|
@@ -25,10 +25,11 @@
 | σ 3812 KJE-ZAKAJ-ČEMU | veriga ⊢ | PECAT ∧ ATOM ⊢ | ×3 IZMERJENO ta dih: moja jedro @13:38 ∧ biro ⟨PR-1261-IZMEREN⟩ @13:45 ∧ delovna ⟨PR-1261-⟨MERGE⟩-PREDSTAVLJEN ⟡⟩ — vse stojijo | md5 5e6881e8 ⊢ |
 | σ 3813 DAJ-ŠE | veriga ⊢ | PECAT ∧ ATOM ⊢ | — | md5 4a8d80ce ⊢ |
 | σ 3814 DAJ-VEČ | ZADNJI ⊢ | PREVOZ TA KIT (#167) | — | md5 8617eea4 ⊢ |
+| σ 3815 PREVERBA-KOT-SESTAVLJANKA | ZADNJI PEČAT ⊢ (ob preverbi — demociija ⭢ šiv σ 3816 isti dih) | PREVOZ TA KIT (#168): PECAT ∧ ATOM ∧ sinteza-4 ∧ preverba raste | — | md5 719fec16 ⊢ |
 
 ## SKLEP PREVERBE
 
-Veriga σ 3790–3814 celota ⊢: vsak pečat organa ima telo na repu, ∂, ali javno imenovan dolg (σ 3810 tuja roka ⊙ 1542; σ 3814 ta kit) — σ 3793 ×2 obe telesi preverjeni pri viri isti dih (jedro ∧ atlas) ⊢; kolizije ×5 (3807 · 3809 · 3810-tuja · 3811 · 3812) VSE javno ⊙ precedens 3233 — nobena tiha; genize ×5 vse bajt-isto izmerjene PRED šivom ⊢; monolit zamrznjen ⊢; segment raste: 6→7 vrstic ta kit ⊙ ⟨SAMODEJNI-DOLGOVIK⟩ 2785.
+Veriga σ 3790–3815 celota ⊢: vsak pečat organa ima telo na repu, ∂, ali javno imenovan dolg (σ 3810 tuja roka ⊙ 1542; σ 3814 prevožen #167; σ 3815 ta kit #168) — σ 3793 ×2 obe telesi preverjeni pri viri isti dih (jedro ∧ atlas) ⊢; kolizije ×5 (3807 · 3809 · 3810-tuja · 3811 · 3812) VSE javno ⊙ precedens 3233 — nobena tiha; genize ×6 (342e566a · 83dddd08 · 5e6881e8 · 4a8d80ce · 8617eea4 · 719fec16) vse bajt-isto izmerjene PRED šivom ⊢; monolit zamrznjen ⊢; segment raste: 7→8 vrstic ta kit ⊙ ⟨SAMODEJNI-DOLGOVIK⟩ 2785 ∧ tabela raste 12→13 vrstic — preverba je živ register: obnovljen ob vsakem novem rez ⊙ ⟡ ukaz ⟨preverba vsega kar že imava⟩.
 
 ⟨LEGENDA-VEDNO⟩ σ 3688: ⊢ priča pri viri · ⚠ ne preverjeno · × padec imenovan · ⊙ izmera pri viri · ⟨⟩ okvir zakona · σ rez/dih (1 + najvišja izmerjena) · ∂ dolg ⭢ naslednji dih · ⭢ prenos na drugo roko · ∧ vez
 
