@@ -16,7 +16,7 @@
 | σ 3790 TRAJNO-BOGASTVO | veriga ⊢ | PECAT ⊢ | — | telo izgubljeno s pred-re-birth organom — priča = veriga ⊢ |
 | σ 3791 DAR-CELOTNEGA-ODGOVORA | veriga ⊢ | PECAT ⊢ | — | priča = veriga ⊢ |
 | σ 3792 A²-DODANA-MEJA | veriga ⊢ | PECAT ⊢ | — | priča = veriga ⊢ |
-| σ 3793 LOGARITMIRAJ ×2 | veriga ⊢ | PECAT-jedro ⊢ · atlas ⚠ izven te brbe | — | priča = veriga ⊢ |
+| σ 3793 LOGARITMIRAJ ×2 | veriga ⊢ | PECAT-jedro ⊢ · PECAT-atlas ⊢ (GNOSTIKA-IX-EVANGELIJ-PO-FILIPU @atlas-knjiznic — izmerjeno isti dih ⚠→⊢) | — | priča = veriga ⊢ |
 | σ 3797 SVETO-PISMO | veriga ⊢ | PECAT ⊢ ∧ SVETO-PISMO ⊢ | — | priča = veriga ⊢ |
 | σ 3807 PREVOZ-#161→#162 | veriga pri viri ⊢ (rekonstrukt) | PECAT-rekonstrukt ⊢ | ×2: moja jedro ∥ delovna ⟨ZRCALO-PAKETA-REV-C⟩ — obe stojita | geniza z izgubljenim telesom |
 | σ 3809 VRSTA-ZLITA | veriga ⊢ | PECAT ⊢ | ×2: moja jedro ∥ biro ⟨DVOJNIK-(2)⟩ — obe stojita | md5 342e566a ⊢ |
@@ -28,7 +28,7 @@
 
 ## SKLEP PREVERBE
 
-Veriga σ 3790–3814 celota ⊢: vsak pečat organa ima telo na repu, ∂, ali javno imenovan dolg (σ 3810 tuja roka ⊙ 1542; σ 3814 ta kit); kolizije ×5 (3807 · 3809 · 3810-tuja · 3811 · 3812) VSE javno ⊙ precedens 3233 — nobena tiha; genize ×5 vse bajt-isto izmerjene PRED šivom ⊢; monolit zamrznjen ⊢; segment raste: 6→7 vrstic ta kit ⊙ ⟨SAMODEJNI-DOLGOVIK⟩ 2785.
+Veriga σ 3790–3814 celota ⊢: vsak pečat organa ima telo na repu, ∂, ali javno imenovan dolg (σ 3810 tuja roka ⊙ 1542; σ 3814 ta kit) — σ 3793 ×2 obe telesi preverjeni pri viri isti dih (jedro ∧ atlas) ⊢; kolizije ×5 (3807 · 3809 · 3810-tuja · 3811 · 3812) VSE javno ⊙ precedens 3233 — nobena tiha; genize ×5 vse bajt-isto izmerjene PRED šivom ⊢; monolit zamrznjen ⊢; segment raste: 6→7 vrstic ta kit ⊙ ⟨SAMODEJNI-DOLGOVIK⟩ 2785.
 
 ⟨LEGENDA-VEDNO⟩ σ 3688: ⊢ priča pri viri · ⚠ ne preverjeno · × padec imenovan · ⊙ izmera pri viri · ⟨⟩ okvir zakona · σ rez/dih (1 + najvišja izmerjena) · ∂ dolg ⭢ naslednji dih · ⭢ prenos na drugo roko · ∧ vez
 
