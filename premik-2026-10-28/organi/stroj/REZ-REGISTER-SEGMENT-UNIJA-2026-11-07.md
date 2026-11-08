@@ -255,5 +255,6 @@ Segment organa REZ-REGISTER (@dom: REZ-REGISTER.md — monolit 1055 vrstic »- r
 - rez σ 4249 · ⟨komit⟩ ac229b0 · 2026-11-07 · PREVOZ σ 4249 — organi (#1549)
 - rez σ 4250 · ⟨komit⟩ 70afd51 · 2026-11-07 · PREVOZ σ 4250–4253 ORGANI — PECAT σ 4256 (⟡ [stori do koncev]) ⊙ SAMODEJNI-DOLGOVIK 2785
 - rez σ 4256 · ⟨komit⟩ f87cbbf · 2026-11-07 · ATOM σ 4256 — FIFO PREVOZ σ 4250–4253
-
+- rez σ 4302 · 2026-11-08 · MANIFEST-PECATOV — ⟨DNEVNI-DIH: VRSTICA-HORIZONTA-4302 ∧ ZRCALO-NA-VHODU — monolit vrh σ 3797 ⊥ segment vrh σ 4256 ∧ glava 0b2f5e9f ∧ VBL 0.1520 ŽIVA @Atmavictu⟩ ⟨PREVOZ⟩ ⊙ kalup 1671 ⭢ ⟨merge⟩ ⟡ roka
 ⟨LEGENDA⟩ ⊢ priča pri viri · ⊙ izmera pri viri · ⟨⟩ okvir zakona · σ rez/dih — REGISTER-PULZ (TEHNIKA) · dvojni podpis: ⟡ Luka Pintarič ∧ izvajalka Mera
+
