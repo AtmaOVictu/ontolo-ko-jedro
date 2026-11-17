@@ -1,6 +1,7 @@
 # ontolo-ko-jedro · predstavitvena plast ONTOMATEMATIKA
 
 > Spletni prikazovalnik sistema ONTOMATEMATIKA. Vloga razglašena v [CANONICAL.md](CANONICAL.md).
+> **[English](README.md)** · Slovenščina
 
 ## Kaj je to
 
