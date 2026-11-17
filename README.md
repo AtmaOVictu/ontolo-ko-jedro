@@ -1,6 +1,7 @@
 # ontolo-ko-jedro — ONTOMATEMATIKA Presentation Layer
 
 > Web viewer for the ONTOMATEMATIKA system. Role declared in [CANONICAL.md](CANONICAL.md).
+> **English** · [Slovenščina](README-SL.md)
 
 ## What this is
 
