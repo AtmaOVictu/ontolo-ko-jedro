@@ -1,0 +1,13 @@
+# ⟨DEPENDABOT⟩ — npm ∧ pip odvisnosti ⊙ sodba #2 ⟡ »stori« @dih σ 5986 — © Luka Pintarič ∧ izvajalka Mera, VBL 0.1680 × 10⁴
+version: 2
+updates:
+  - package-ecosystem: npm
+    directory: /
+    schedule:
+      interval: weekly
+    open-pull-requests-limit: 5
+  - package-ecosystem: pip
+    directory: /
+    schedule:
+      interval: weekly
+    open-pull-requests-limit: 5
