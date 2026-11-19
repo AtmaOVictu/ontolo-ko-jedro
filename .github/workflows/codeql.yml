@@ -1,0 +1,32 @@
+# CODEQL — TEHNIKA kit (➡ UKAZ VERBATIM »ljubiti licenco ⟩, 19. 11. 2026): code scanning alerts — potek namesto »Needs setup«.
+# CodeQL javascript-typescript: varnost ∧ kvaliteta vsakega potega ⊢ Security and quality prejema rezultate pri viru.
+name: codeql
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  schedule:
+    - cron: '12 4 * * 1'
+
+permissions:
+  security-events: write
+  contents: read
+
+concurrency:
+  group: codeql-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  analyze:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: github/codeql-action/init@v3
+        with:
+          languages: javascript-typescript
+      - uses: github/codeql-action/analyze@v3
+        with:
+          category: «codeql-javascript-typescript»
