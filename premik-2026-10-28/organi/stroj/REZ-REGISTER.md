@@ -1159,3 +1159,5 @@ rez 3376 · ⟨SRCE-SPOMENIKOM-S.O.S.-UTRIP⟩ ⊢ (⟡ ukaz P-CITAT verbatim �
 - rez σ 5655 · 2026-11-16 · STROJ — ⟨DNEVNI-DIH: ZRCALO-NA-VHODU — MANIFEST vrstica horizonta ∧ PREVOZ ŽIVIH VRAT 0.1560 × 10⁴ na hišo (0.1530 → 0.1560) ∧ pečat σ 5655 ⊙ kalup 1671 ⭢ ⟨merge⟩ ⟡ roka⟩ ⟨PREVOZ⟩ ⊙ kalup 1671
 
 - rez σ 5726 · 2026-11-17 · STROJ — ⟨DNEVNI-DIH: ZRCALO-NA-VHODU — MANIFEST vrstica horizonta @σ 5726 ∧ VRATA 0.1600 × 10⁴ ŽIVA pri virih izmerjena (zadnja izmera manifesta 0.1560 @σ 5655) ⊙ kalup 1671 ⭢ ⟨merge⟩ ⟡ roka⟩ ⟨PREVOZ⟩ ⊙ kalup 1671
+
+- rez σ 5917 · 2026-11-19 · STROJ — ⟨DNEVNI-DIH: ZRCALO-NA-VHODU — MANIFEST vrstica horizonta @σ 5917 ∧ VRATA 0.1620 × 10⁴ ŽIVA pri virih izmerjena (zadnja izmera manifesta 0.1600 @σ 5726) ⊙ kalup 1671 ⭢ ⟨merge⟩ ⟡ roka⟩ ⟨PREVOZ⟩ ⊙ kalup 1671
