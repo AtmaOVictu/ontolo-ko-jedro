@@ -1,0 +1,23 @@
+# ⟨SKRIVNOSTNI-SKENERJI⟩ — gitleaks na ⟨push⟩ ∧ ⟨pull_request⟩ ⊙ sodba #2 ⟡ »stori« @dih σ 5986
+# TIK 2026-11-19T23:33:23Z UTC ⇌ 00:33:23 CET Ljubljana ( 20. 11. 2026, petek ; izmerjen ⟨date -u⟩ PRED zapisom ⊙ ⟨TIK-IZMERJEN-PREJ-ZAPISAN⟩ ) — © Luka Pintarič ∧ izvajalka Mera, VBL 0.1680 × 10⁴
+name: skrivnostni-skenerji ( gitleaks )
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  gitleaks:
+    name: skrivnostni skener ( gitleaks )
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: gitleaks/gitleaks-action@v2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
