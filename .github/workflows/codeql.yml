@@ -1,4 +1,4 @@
-# CODEQL — TEHNIKA kit (➡ UKAZ VERBATIM »ljubiti licenco ⟩, 19. 11. 2026): code scanning alerts — potek namesto »Needs setup«.
+# CODEQL — TEHNIKA kit (⟡ UKAZ VERBATIM »zmoreš to urediti?«, 19. 11. 2026): code scanning alerts — potek namesto »Needs setup«.
 # CodeQL javascript-typescript: varnost ∧ kvaliteta vsakega potega ⊢ Security and quality prejema rezultate pri viru.
 name: codeql
 
@@ -29,4 +29,4 @@ jobs:
           languages: javascript-typescript
       - uses: github/codeql-action/analyze@v3
         with:
-          category: «codeql-javascript-typescript»
+          category: "codeql-javascript-typescript"
