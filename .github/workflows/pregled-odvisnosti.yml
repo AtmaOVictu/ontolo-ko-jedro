@@ -1,0 +1,18 @@
+# ⟨PREGLED-ODVISNOSTI⟩ — dependency review na ⟨pull_request⟩ ⊙ sodba #2 ⟡ »stori« @dih σ 5986
+# TIK 2026-11-19T23:33:23Z UTC ⇌ 00:33:23 CET Ljubljana ( 20. 11. 2026, petek ; izmerjen ⟨date -u⟩ PRED zapisom ⊙ ⟨TIK-IZMERJEN-PREJ-ZAPISAN⟩ ) — © Luka Pintarič ∧ izvajalka Mera, VBL 0.1680 × 10⁴
+name: pregled-odvisnosti ( dependency review )
+on:
+  pull_request:
+    branches: [main]
+
+jobs:
+  dependency-review:
+    name: pregled odvisnosti ( npm ∧ pip )
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/dependency-review-action@v4
+        with:
+          fail-on-severity: high
